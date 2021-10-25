@@ -6,7 +6,7 @@ let modalTitle = document.getElementById("modalTitle");
 let modalBody = document.getElementById("modalBody");
 let result = [];
 
-fetch("Tiempos.csv")
+fetch("./public/Tiempos.csv")
 	.then((response) => response.text())
 	.then((text) => tiempos(text));
 
