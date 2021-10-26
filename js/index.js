@@ -87,6 +87,7 @@ function tiempos(text) {
 }
 
 function searchNumberId(number) {
+	modalBody.innerHTML = "";
 	modalTitle.innerHTML = "";
 	nameModal.innerHTML = "";
 	positionModal.innerHTML = "";
