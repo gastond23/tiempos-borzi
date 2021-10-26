@@ -17,7 +17,7 @@ let categoryModal = document.createElement("p");
 categoryModal.classList.add("text-uppercase", "text-start", "fs-5");
 let generoModal = document.createElement("p");
 generoModal.classList.add("text-uppercase", "text-start", "fs-5");
-let verificationNumber = false;
+let verificationNumber;
 let footLegendModal = document.createElement("p");
 footLegendModal.classList.add("text-center");
 footLegendModal.innerHTML = `<small>Posiciones sujetas a cambios </small>`;
@@ -28,7 +28,8 @@ fetch("./public/Tiempos.csv")
 
 inputId.addEventListener("keyup", (e) => {
 	if (e.key === "Enter") {
-		searchNumberId(e.target.value);
+		e.preventDefault();
+		searchNumberId(inputId.value);
 	}
 });
 buttonSearch.addEventListener("click", () => {
@@ -86,13 +87,14 @@ function tiempos(text) {
 }
 
 function searchNumberId(number) {
-	//modalTitle.innerHTML = "";
+	modalTitle.innerHTML = "";
 	nameModal.innerHTML = "";
 	positionModal.innerHTML = "";
 	distanceModal.innerHTML = "";
 	timeModal.innerHTML = "";
 	categoryModal.innerHTML = "";
 	generoModal.innerHTML = "";
+	verificationNumber = false;
 	for (let i = 0; i < result.length; i++) {
 		if (result[i].numero == number) {
 			modalTitle.innerHTML = `<h2><span class="badge rounded-pill bg-primary">${result[i].numero}</span></h2>`;
