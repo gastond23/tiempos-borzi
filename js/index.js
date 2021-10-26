@@ -5,6 +5,18 @@ let modal = document.getElementById("staticBackdrop");
 let modalTitle = document.getElementById("modalTitle");
 let modalBody = document.getElementById("modalBody");
 let result = [];
+let nameModal = document.createElement("p");
+nameModal.classList.add("text-uppercase", "text-start", "fs-5");
+let positionModal = document.createElement("p");
+positionModal.classList.add("text-uppercase", "text-start", "fs-5");
+let distanceModal = document.createElement("p");
+distanceModal.classList.add("text-uppercase", "text-start", "fs-5");
+let timeModal = document.createElement("p");
+timeModal.classList.add("text-uppercase", "text-start", "fs-5");
+let categoryModal = document.createElement("p");
+categoryModal.classList.add("text-uppercase", "text-start", "fs-5");
+let generoModal = document.createElement("p");
+generoModal.classList.add("text-uppercase", "text-start", "fs-5");
 
 fetch("./public/Tiempos.csv")
 	.then((response) => response.text())
@@ -70,12 +82,27 @@ function tiempos(text) {
 }
 
 function searchNumberId(number) {
+	nameModal.innerHTML = "";
+	positionModal.innerHTML = "";
+	distanceModal.innerHTML = "";
+	timeModal.innerHTML = "";
+	categoryModal.innerHTML = "";
+	generoModal.innerHTML = "";
 	for (let i = 0; i < result.length; i++) {
 		if (result[i].numero == number) {
-			modalTitle.innerHTML = result[i].numero;
-			let names = document.createElement("h5");
-			names.innerHTML = `Nombre: ${result[i].nombre} ${result[i].apellido}`;
-			modalBody.appendChild(names);
+			modalTitle.innerHTML = `<span class="badge rounded-pill bg-primary">${result[i].numero}</span>`;
+			nameModal.innerHTML = `Nombre: <span class="fw-bold">${result[i].nombre} ${result[i].apellido}</span> `;
+			positionModal.innerHTML = `Posición General: <span class="fw-bold">${result[i].posicion_general} </span>`;
+			distanceModal.innerHTML = `Distancia: <span class="fw-bold">${result[i].distancia} </span>`;
+			timeModal.innerHTML = `Tiempo: <span class="fw-bold">${result[i].tiempo} </span>`;
+			categoryModal.innerHTML = `Categoría / Posición: <span class="fw-bold">${result[i].categoría_posicion} </span>`;
+			generoModal.innerHTML = `Género / Posición: <span class="fw-bold">${result[i].sexo_posicion} </span>`;
+			modalBody.appendChild(nameModal);
+			modalBody.appendChild(positionModal);
+			modalBody.appendChild(distanceModal);
+			modalBody.appendChild(timeModal);
+			modalBody.appendChild(categoryModal);
+			modalBody.appendChild(generoModal);
 		}
 	}
 }
