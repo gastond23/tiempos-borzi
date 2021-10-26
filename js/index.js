@@ -17,6 +17,7 @@ let categoryModal = document.createElement("p");
 categoryModal.classList.add("text-uppercase", "text-start", "fs-5");
 let generoModal = document.createElement("p");
 generoModal.classList.add("text-uppercase", "text-start", "fs-5");
+let verificationNumber = false;
 
 fetch("./public/Tiempos.csv")
 	.then((response) => response.text())
@@ -82,6 +83,7 @@ function tiempos(text) {
 }
 
 function searchNumberId(number) {
+	//modalTitle.innerHTML = "";
 	nameModal.innerHTML = "";
 	positionModal.innerHTML = "";
 	distanceModal.innerHTML = "";
@@ -98,11 +100,16 @@ function searchNumberId(number) {
 			categoryModal.innerHTML = `Categoría / Posición: <span class="fw-bold">${result[i].categoría_posicion} </span>`;
 			generoModal.innerHTML = `Género / Posición: <span class="fw-bold">${result[i].sexo_posicion} </span>`;
 			modalBody.appendChild(nameModal);
-			modalBody.appendChild(positionModal);
 			modalBody.appendChild(distanceModal);
 			modalBody.appendChild(timeModal);
+			modalBody.appendChild(positionModal);
 			modalBody.appendChild(categoryModal);
 			modalBody.appendChild(generoModal);
+			verificationNumber = true;
 		}
+	}
+	if (verificationNumber == false) {
+		modalTitle.innerHTML = `<span class="badge rounded-pill bg-danger">${number}</span>`;
+		modalBody.innerHTML = "CORREDOR INEXISTENTE";
 	}
 }
