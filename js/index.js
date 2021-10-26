@@ -18,6 +18,9 @@ categoryModal.classList.add("text-uppercase", "text-start", "fs-5");
 let generoModal = document.createElement("p");
 generoModal.classList.add("text-uppercase", "text-start", "fs-5");
 let verificationNumber = false;
+let footLegendModal = document.createElement("p");
+footLegendModal.classList.add("text-center");
+footLegendModal.innerHTML = `<small>Posiciones sujetas a cambios </small>`;
 
 fetch("./public/Tiempos.csv")
 	.then((response) => response.text())
@@ -92,7 +95,7 @@ function searchNumberId(number) {
 	generoModal.innerHTML = "";
 	for (let i = 0; i < result.length; i++) {
 		if (result[i].numero == number) {
-			modalTitle.innerHTML = `<span class="badge rounded-pill bg-primary">${result[i].numero}</span>`;
+			modalTitle.innerHTML = `<h2><span class="badge rounded-pill bg-primary">${result[i].numero}</span></h2>`;
 			nameModal.innerHTML = `Nombre: <span class="fw-bold">${result[i].nombre} ${result[i].apellido}</span> `;
 			positionModal.innerHTML = `Posición General: <span class="fw-bold">${result[i].posicion_general} </span>`;
 			distanceModal.innerHTML = `Distancia: <span class="fw-bold">${result[i].distancia} </span>`;
@@ -105,6 +108,7 @@ function searchNumberId(number) {
 			modalBody.appendChild(positionModal);
 			modalBody.appendChild(categoryModal);
 			modalBody.appendChild(generoModal);
+			modalBody.appendChild(footLegendModal);
 			verificationNumber = true;
 		}
 	}
