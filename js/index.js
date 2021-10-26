@@ -117,6 +117,6 @@ function searchNumberId(number) {
 	}
 	if (verificationNumber == false) {
 		modalTitle.innerHTML = `<span class="badge rounded-pill bg-danger">${number}</span>`;
-		modalBody.innerHTML = "CORREDOR INEXISTENTE";
+		modalBody.innerHTML = `CORREDOR INEXISTENTE`;
 	}
 }
