@@ -8,3 +8,14 @@
 	position: sticky;
 	top: 0;
 }
+
+.figure-title {
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+.logo {
+	position: absolute;
+	left: 0;
+	top: -2rem;
+}
