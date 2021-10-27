@@ -1,0 +1,10 @@
+.header {
+	position: sticky;
+	top: 0;
+}
+
+.table-header {
+	background-color: white;
+	position: sticky;
+	top: 0;
+}

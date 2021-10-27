@@ -26,6 +26,10 @@ fetch("./public/Tiempos.csv")
 	.then((response) => response.text())
 	.then((text) => tiempos(text));
 
+fetch("./public/RaceData.json")
+	.then((response) => response.json())
+	.then((data) => raceInfo(data));
+
 inputId.addEventListener("keyup", (e) => {
 	if (e.key === "Enter") {
 		e.preventDefault();
@@ -35,6 +39,10 @@ inputId.addEventListener("keyup", (e) => {
 buttonSearch.addEventListener("click", () => {
 	searchNumberId(inputId.value);
 });
+
+function raceInfo(data) {
+	console.log(data);
+}
 
 function tiempos(text) {
 	let lines = text.split("\n");
@@ -50,7 +58,7 @@ function tiempos(text) {
 	];
 	for (let i = 0; i < lines.length; i++) {
 		let obj = {};
-		let currentLine = lines[i].split(";");
+		let currentLine = lines[i].split(",");
 		for (let j = 0; j < headers.length; j++) {
 			obj[headers[j]] = currentLine[j];
 		}
