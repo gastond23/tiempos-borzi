@@ -20,6 +20,7 @@
 	top: 0rem;
 	height: 80px;
 	width: 80px;
+	margin-top: 0.5rem;
 }
 
 .title-event {
@@ -42,6 +43,7 @@
 		height: 200px;
 		width: 200px;
 		top: -2.5rem;
+		margin-top: 0;
 	}
 	.title-event {
 		font-size: xx-large;
