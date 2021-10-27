@@ -11,11 +11,11 @@
 
 .figure-title {
 	padding-top: 2rem;
-	padding-bottom: 2rem;
+	padding-bottom: 1rem;
 }
 
 .logo {
 	position: absolute;
 	left: 0;
-	top: -2rem;
+	top: -2.5rem;
 }
