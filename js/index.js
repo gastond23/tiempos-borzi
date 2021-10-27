@@ -1,3 +1,7 @@
+fetch("./public/RaceData.json")
+	.then((response) => response.json())
+	.then((data) => raceInfo(data));
+
 let tableBody = document.getElementById("table-body");
 let inputId = document.getElementById("numberId");
 let buttonSearch = document.getElementById("busqueda");
@@ -23,10 +27,6 @@ footLegendModal.classList.add("text-center");
 footLegendModal.innerHTML = `<small>Posiciones sujetas a cambios </small>`;
 let eventTitle = document.getElementById("event-title");
 let eventData = document.getElementById("event-data");
-
-fetch("./public/RaceData.json")
-	.then((response) => response.json())
-	.then((data) => raceInfo(data));
 
 fetch("./public/Tiempos.csv")
 	.then((response) => response.text())
