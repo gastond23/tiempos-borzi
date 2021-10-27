@@ -1,12 +1,18 @@
 .header {
 	position: sticky;
 	top: 0;
+	background-color: white;
 }
 
 .table-header {
 	background-color: white;
 	position: sticky;
-	top: 0;
+	top: 12rem;
+}
+
+.container-sm {
+	background-color: white;
+	padding-bottom: 1rem;
 }
 
 .figure-title {
