@@ -21,6 +21,8 @@ let verificationNumber;
 let footLegendModal = document.createElement("p");
 footLegendModal.classList.add("text-center");
 footLegendModal.innerHTML = `<small>Posiciones sujetas a cambios </small>`;
+let eventTitle = document.getElementById("event-title");
+let eventData = document.getElementById("event-data");
 
 fetch("./public/Tiempos.csv")
 	.then((response) => response.text())
@@ -41,7 +43,8 @@ buttonSearch.addEventListener("click", () => {
 });
 
 function raceInfo(data) {
-	console.log(data);
+	eventTitle.innerHTML = data.event;
+	eventData.innerHTML = data.date + " - " + data.location;
 }
 
 function tiempos(text) {
