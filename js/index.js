@@ -24,13 +24,13 @@ footLegendModal.innerHTML = `<small>Posiciones sujetas a cambios </small>`;
 let eventTitle = document.getElementById("event-title");
 let eventData = document.getElementById("event-data");
 
-fetch("./public/Tiempos.csv")
-	.then((response) => response.text())
-	.then((text) => tiempos(text));
-
 fetch("./public/RaceData.json")
 	.then((response) => response.json())
 	.then((data) => raceInfo(data));
+
+fetch("./public/Tiempos.csv")
+	.then((response) => response.text())
+	.then((text) => tiempos(text));
 
 inputId.addEventListener("keyup", (e) => {
 	if (e.key === "Enter") {
