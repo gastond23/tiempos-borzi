@@ -17,5 +17,15 @@
 .logo {
 	position: absolute;
 	left: 0;
-	top: -2.5rem;
+	top: 0rem;
+	height: 100px;
+	width: 100px;
+}
+
+@media (min-width: 700px) {
+	.logo {
+		height: 200px;
+		width: 200px;
+		top: -2.5rem;
+	}
 }
