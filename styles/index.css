@@ -38,6 +38,10 @@
 	margin: auto;
 }
 
+.table {
+	overflow: scroll;
+}
+
 @media (min-width: 600px) {
 	.logo {
 		height: 200px;
