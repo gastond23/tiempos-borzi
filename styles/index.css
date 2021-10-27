@@ -4,24 +4,19 @@
 	background-color: white;
 }
 
-.table-header {
-	background-color: white;
-	position: sticky;
-	top: 12rem;
-}
-
 .container-sm {
 	background-color: white;
 	padding-bottom: 1rem;
 }
 
-.table {
-	-webkit-overflow-scrolling: touch;
+.figure-title {
+	background-color: white;
+	padding-bottom: 0.5rem;
+	padding-top: 0.5rem;
 }
 
-.figure-title {
-	padding-top: 2rem;
-	padding-bottom: 1rem;
+.table-header {
+	background-color: white;
 }
 
 .logo {
@@ -46,10 +41,6 @@
 
 #modal-event-title {
 	margin: auto;
-}
-
-.table {
-	overflow: scroll;
 }
 
 @media (min-width: 600px) {
