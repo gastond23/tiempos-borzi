@@ -1,4 +1,4 @@
-fetch("./public/RaceData.json")
+fetch("./public/RaceData.txt")
 	.then((response) => response.json())
 	.then((data) => raceInfo(data));
 
@@ -31,6 +31,12 @@ let raceDataObj;
 let eventModal = document.createElement("h2");
 eventModal.classList.add("text-center");
 
+function raceInfo(data) {
+	raceDataObj = data;
+	eventTitle.innerHTML = data.event;
+	eventData.innerHTML = data.date + " - " + data.location;
+}
+
 fetch("./public/Tiempos.csv")
 	.then((response) => response.text())
 	.then((text) => tiempos(text));
@@ -44,12 +50,6 @@ inputId.addEventListener("keyup", (e) => {
 buttonSearch.addEventListener("click", () => {
 	searchNumberId(inputId.value);
 });
-
-function raceInfo(data) {
-	raceDataObj = data;
-	eventTitle.innerHTML = data.event;
-	eventData.innerHTML = data.date + " - " + data.location;
-}
 
 function tiempos(text) {
 	let lines = text.split("\n");
