@@ -27,6 +27,10 @@ footLegendModal.classList.add("text-center");
 footLegendModal.innerHTML = `<small>Posiciones sujetas a cambios </small>`;
 let eventTitle = document.getElementById("event-title");
 let eventData = document.getElementById("event-data");
+let raceDataObj;
+let eventModal = document.createElement("h2");
+eventModal.classList.add("text-center");
+let br = document.createElement("br");
 
 fetch("./public/Tiempos.csv")
 	.then((response) => response.text())
@@ -43,6 +47,7 @@ buttonSearch.addEventListener("click", () => {
 });
 
 function raceInfo(data) {
+	raceDataObj = data;
 	eventTitle.innerHTML = data.event;
 	eventData.innerHTML = data.date + " - " + data.location;
 }
@@ -110,12 +115,15 @@ function searchNumberId(number) {
 	for (let i = 0; i < result.length; i++) {
 		if (result[i].numero == number) {
 			modalTitle.innerHTML = `<h2><span class="badge rounded-pill bg-primary">${result[i].numero}</span></h2>`;
+			eventModal.innerHTML = raceDataObj.event;
 			nameModal.innerHTML = `Nombre: <span class="fw-bold">${result[i].nombre} ${result[i].apellido}</span> `;
 			positionModal.innerHTML = `Posición General: <span class="fw-bold">${result[i].posicion_general} </span>`;
 			distanceModal.innerHTML = `Distancia: <span class="fw-bold">${result[i].distancia} </span>`;
 			timeModal.innerHTML = `Tiempo: <span class="fw-bold">${result[i].tiempo} </span>`;
 			categoryModal.innerHTML = `Categoría / Posición: <span class="fw-bold">${result[i].categoría_posicion} </span>`;
 			generoModal.innerHTML = `Género / Posición: <span class="fw-bold">${result[i].sexo_posicion} </span>`;
+			modalBody.appendChild(eventModal);
+			modalBody.appendChild(br);
 			modalBody.appendChild(nameModal);
 			modalBody.appendChild(distanceModal);
 			modalBody.appendChild(timeModal);
