@@ -22,10 +22,17 @@
 	width: 80px;
 }
 
-@media (min-width: 700px) {
+.title-event {
+	font-size: medium;
+}
+
+@media (min-width: 600px) {
 	.logo {
 		height: 200px;
 		width: 200px;
 		top: -2.5rem;
+	}
+	.title-event {
+		font-size: xx-large;
 	}
 }
