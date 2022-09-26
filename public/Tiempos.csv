@@ -1,342 +1,638 @@
-644,Salamanca,Pablo Matias,8000,1,M: 1,00:32:32.33,MASC 30 - 39: 1
-627,Lahetjuzan,Alfredo Leonel,8000,2,M: 2,00:33:31.72,MASC 30 - 39: 2
-649,Torres,Nelson,8000,3,M: 3,00:33:58.69,MASC 30 - 39: 3
-521,Levio Bichara,Nader Alejandro,8000,4,M: 4,00:34:43.38,MASC 18 - 29: 1
-899,Fuentes,Wilson,8000,5,M: 5,00:34:51.11,MASC 30 - 39: 4
-635,Ponce,Felipe,8000,6,M: 6,00:35:27.39,MASC 30 - 39: 5
-646,Simonelli,V?ctor,8000,7,M: 7,00:36:04.74,MASC 30 - 39: 6
-629,Llarena,Abel,8000,8,M: 8,00:37:35.42,MASC 30 - 39: 7
-540,San Mart?n,Franco Gast?n,8000,9,M: 9,00:37:39.19,MASC 18 - 29: 2
-572,Cianci,Bel?n,8000,10,F: 1,00:38:04.71,FEM. 18 - 29: 1
-514,Galli,Maximiliano,8000,11,M: 10,00:38:22.49,MASC 18 - 29: 3
-503,Aravena,Luis,8000,12,M: 11,00:38:38.09,MASC 18 - 29: 4
-505,Belmar,Roberto,8000,13,M: 12,00:38:47.22,MASC 18 - 29: 5
-619,Godoy,Miguel Alberto,8000,14,M: 13,00:39:11.28,MASC 30 - 39: 8
-641,Riquelme,Ram?n Andr?s,8000,15,M: 14,00:39:15.33,MASC 30 - 39: 9
-753,Senatore,Juan,8000,16,M: 15,00:39:31.58,MASC 40 - 49: 1
-645,S?nchez Cid,Oriel,8000,17,M: 16,00:39:34.01,MASC 30 - 39: 10
-513,Galli,Franco,8000,18,M: 17,00:39:40.14,MASC 18 - 29: 6
-508,Cardenas,Felipe,8000,19,M: 18,00:39:44.40,MASC 18 - 29: 7
-729,De La Fuente,Daniel Antonio,8000,20,M: 19,00:39:47.15,MASC 40 - 49: 2
-516,Hern?ndez,Federico,8000,21,M: 20,00:40:02.06,MASC 18 - 29: 8
-612,De Toffol,Mart?n,8000,22,M: 21,00:40:31.29,MASC 30 - 39: 11
-830,Marin,Latino,8000,23,M: 22,00:40:48.20,MASC 30 - 39: 12
-541,Sequeira,Gerardo,8000,24,M: 23,00:40:55.39,MASC 18 - 29: 9
-509,Casiano,Fernando,8000,25,M: 24,00:41:01.44,MASC 18 - 29: 10
-726,Benedetti,Mauro,8000,26,M: 25,00:41:03.48,MASC 40 - 49: 3
-741,Martin,Omar,8000,27,M: 26,00:41:08.93,MASC 40 - 49: 4
-647,Solis,Gaston Walter,8000,28,M: 27,00:41:15.21,MASC 30 - 39: 13
-652,Zunino,Francisco,8000,29,M: 28,00:41:22.24,MASC 30 - 39: 14
-517,Ibarg?en,Lucas,8000,30,M: 29,00:41:29.65,MASC 18 - 29: 11
-603,Brunetta,Esteban,8000,31,M: 30,00:41:29.90,MASC 30 - 39: 15
-630,Matus,Nicol?s,8000,32,M: 31,00:41:31.23,MASC 30 - 39: 16
-746,Molina,Jorge,8000,33,M: 32,00:41:38.22,MASC 40 - 49: 5
-624,Jara,Manuel,8000,34,M: 33,00:41:43.01,MASC 30 - 39: 17
-533,Palacios,Coronel Lautaro,8000,35,M: 34,00:41:53.11,MASC 18 - 29: 12
-550,Villafa?e,Federico,8000,36,M: 35,00:41:58.29,MASC 18 - 29: 13
-574,Jaramillo,Laura,8000,37,F: 2,00:42:00.12,FEM. 30 - 39: 1
-625,Jaramillo Rosas,Nadir Eliel,8000,38,M: 36,00:42:13.07,MASC 30 - 39: 18
-524,Mamani,Angel Jonhatan,8000,39,M: 37,00:42:44.54,MASC 18 - 29: 14
-731,Espinoza,Luis,8000,40,M: 38,00:42:51.91,MASC 40 - 49: 6
-638,Pozas,Mat?as Ra?l,8000,41,M: 39,00:42:58.71,MASC 30 - 39: 19
-512,Fortunato,Maximiliano,8000,42,M: 40,00:43:00.02,MASC 18 - 29: 15
-601,Benito,Cristofer Maximiliano,8000,43,M: 41,00:43:06.45,MASC 30 - 39: 20
-730,Dinamarca,Rub?n Dar?o,8000,44,M: 42,00:43:09.45,MASC 40 - 49: 7
-634,Pe?a,Sebastian Alfredo,8000,45,M: 43,00:43:12.94,MASC 30 - 39: 21
-723,Andion,Alejandro,8000,46,M: 44,00:43:17.10,MASC 40 - 49: 8
-611,Curinao,Carlos Ariel,8000,47,M: 45,00:43:17.46,MASC 30 - 39: 22
-804,Moraga,Claudia,8000,48,F: 3,00:43:35.22,FEM. 40 - 49: 1
-626,Jaurena,Pablo Martin,8000,49,M: 46,00:43:37.55,MASC 30 - 39: 23
-640,Riquelme,Eduardo Marcelo,8000,50,M: 47,00:43:43.06,MASC 30 - 39: 24
-734,Garzon,Ricardo Nicolas,8000,51,M: 48,00:43:46.60,MASC 40 - 49: 9
-577,Kaiser,Milagros,8000,52,F: 4,00:44:10.53,FEM. 18 - 29: 2
-841,Augsburger,Roberto,8000,53,M: 49,00:44:15.39,MASC 50 - 59: 1
-838,Villafa?e,Maria Guillermina,8000,54,F: 5,00:44:20.49,FEM. 40 - 49: 2
-557,Arias Bonacchi,Agustina,8000,55,F: 6,00:44:22.37,FEM. 18 - 29: 3
-520,Laciar,Nicol?s Rodolfo,8000,56,M: 50,00:44:24.91,MASC 18 - 29: 16
-724,Arevalo Smith,Juan,8000,57,M: 51,00:44:48.75,MASC 40 - 49: 10
-653,Altube,Carmina,8000,58,F: 7,00:45:02.18,FEM. 30 - 39: 2
-600,Baez,Pablo,8000,59,M: 52,00:45:14.07,MASC 30 - 39: 25
-613,Flores,Luis Alfredo,8000,60,M: 53,00:45:14.65,MASC 30 - 39: 26
-538,Ruminot,Gustavo,8000,61,M: 54,00:45:31.24,MASC 18 - 29: 17
-616,Garc?a,Mat?as Javier,8000,62,M: 55,00:45:33.52,MASC 30 - 39: 27
-633,Payllalef,Maximiliano,8000,63,M: 56,00:45:36.23,MASC 30 - 39: 28
-642,Rodriguez,Antonio,8000,64,M: 57,00:45:43.02,MASC 30 - 39: 29
-891,Clementis,Jorge Daniel,8000,65,M: 58,00:45:44.78,MASC 60 y +: 1
-800,Mart?nez,Carina,8000,66,F: 8,00:45:50.03,FEM. 40 - 49: 3
-749,Pousset,Gast?n Luis,8000,67,M: 59,00:46:02.10,MASC 40 - 49: 11
-617,Garrido,Paulo Ezequiel,8000,68,M: 60,00:46:30.60,MASC 30 - 39: 30
-571,Gonz?lez,Marit?,8000,69,F: 9,00:46:34.05,FEM. 18 - 29: 4
-539,Saez,Sebasti?n Nazareno,8000,70,M: 61,00:46:37.90,MASC 18 - 29: 18
-546,Valdebenito,Mart?n,8000,71,M: 62,00:46:38.56,MASC 18 - 29: 19
-591,Tscherig,Mar?a Ver?nica,8000,72,F: 10,00:46:39.53,FEM. 18 - 29: 5
-542,Soto,Ezequiel Nicol?s,8000,73,M: 63,00:46:45.12,MASC 18 - 29: 20
-728,Castro,Ariel,8000,74,M: 64,00:46:56.89,MASC 40 - 49: 12
-650,Valdez,Gonzalo,8000,75,M: 65,00:46:57.11,MASC 30 - 39: 31
-759,Vidal R.,Juan,8000,76,M: 66,00:46:58.93,MASC 40 - 49: 13
-628,Leal,Pablo,8000,77,M: 67,00:47:03.35,MASC 30 - 39: 32
-599,Antiqueo,Gabriel,8000,78,M: 68,00:47:07.29,MASC 30 - 39: 33
-842,Betancur,Carlos Augusto,8000,79,M: 69,00:47:12.55,MASC 50 - 59: 2
-818,Pomies Baraldi,Yannina,8000,80,F: 11,00:47:13.04,FEM. 40 - 49: 4
-544,Suarez,Federico,8000,81,M: 70,00:47:37.62,MASC 18 - 29: 21
-834,Vazquez,Silvana,8000,82,F: 12,00:47:45.00,FEM. 40 - 49: 5
-733,Garcia,Pablo Ariel,8000,83,M: 71,00:47:45.46,MASC 40 - 49: 14
-636,Porro,Lucas,8000,84,M: 72,00:47:54.67,MASC 30 - 39: 34
-507,Bonoris,Juan,8000,85,M: 73,00:47:55.53,MASC 18 - 29: 22
-506,Boggio,Guanella Luca,8000,86,M: 74,00:47:57.32,MASC 18 - 29: 23
-855,Ralinqueo,Guillermo,8000,87,M: 75,00:48:14.79,MASC 50 - 59: 3
-722,Amaya,Pablo Alejandro,8000,88,M: 76,00:48:15.06,MASC 40 - 49: 15
-857,Saez,Silvio Alejandrino,8000,89,M: 77,00:48:16.32,MASC 50 - 59: 4
-697,Mendicoa,Paola,8000,90,F: 13,00:48:16.48,FEM. 30 - 39: 3
-744,Mello,Jos?,8000,91,M: 78,00:48:21.13,MASC 40 - 49: 16
-748,Ponte,Javier,8000,92,M: 79,00:48:22.84,MASC 40 - 49: 17
-551,Villegas,Pablo,8000,93,M: 80,00:48:22.89,MASC 18 - 29: 24
-568,Fontana,Marilyn,8000,94,F: 14,00:48:23.57,FEM. 18 - 29: 6
-525,Medina,Facundo,8000,95,M: 81,00:48:29.27,MASC 18 - 29: 25
-563,Carrasco,Agustina Aylin,8000,96,F: 15,00:48:29.81,FEM. 18 - 29: 7
-751,Rodil,Diego,8000,97,M: 82,00:48:31.25,MASC 40 - 49: 18
-760,Zalazar,Fernando Alejandro,8000,98,M: 83,00:48:35.68,MASC 40 - 49: 19
-530,Neri,Luciano,8000,99,M: 84,00:48:43.26,MASC 18 - 29: 26
-747,Monsalve,Hugo Daniel,8000,100,M: 85,00:48:47.57,MASC 40 - 49: 20
-549,Vera,Candela Fabrizio,8000,101,M: 86,00:48:49.22,MASC 18 - 29: 27
-589,Sandoval,Mayra,8000,102,F: 16,00:48:56.05,FEM. 18 - 29: 8
-719,Vidal,Vanesa,8000,103,F: 17,00:48:56.15,FEM. 30 - 39: 4
-590,Soto,Emilse Daniela,8000,104,F: 18,00:49:09.06,FEM. 18 - 29: 9
-791,Gauna,Viviana Zulema,8000,105,F: 19,00:49:19.54,FEM. 40 - 49: 6
-699,Moscoso,Ramos Marisa,8000,106,F: 20,00:49:23.59,FEM. 30 - 39: 5
-703,Nievas,Mara Alejandra Josefa,8000,107,F: 21,00:49:34.21,FEM. 30 - 39: 6
-766,Bascu?an,M?nica Marcela,8000,108,F: 22,00:49:45.91,FEM. 40 - 49: 7
-586,Petit Gean,Martina,8000,109,F: 23,00:49:47.29,FEM. 18 - 29: 10
-854,Navarrete,Jos? Ignacio,8000,110,M: 87,00:49:49.06,MASC 50 - 59: 5
-654,Alvarez,Tania,8000,111,F: 24,00:49:51.56,FEM. 30 - 39: 7
-695,Malisani,Silvina,8000,112,F: 25,00:49:55.49,FEM. 30 - 39: 8
-786,Fern?ndez,Mariana Yanina,8000,113,F: 26,00:49:55.54,FEM. 40 - 49: 8
-587,Quinteros,Hanna Florencia,8000,114,F: 27,00:49:58.71,FEM. 18 - 29: 11
-564,Castro,Aylin,8000,115,F: 28,00:50:08.39,FEM. 18 - 29: 12
-605,Carre?o Cruz,Henry,8000,116,M: 88,00:50:22.61,MASC 30 - 39: 35
-677,Fuentes,Leticia In?s,8000,117,F: 29,00:50:23.20,FEM. 40 - 49: 9
-606,Carrizo,David Pablo,8000,118,M: 89,00:50:25.04,MASC 30 - 39: 36
-502,Altamirano,Nicolas,8000,119,M: 90,00:50:25.60,MASC 18 - 29: 28
-639,Pracilio,Fernando,8000,120,M: 91,00:50:32.72,MASC 30 - 39: 37
-618,Giacobone,Sebastian,8000,121,M: 92,00:50:41.13,MASC 30 - 39: 38
-529,Mendoza,Roberto Emanuel,8000,122,M: 93,00:50:42.17,MASC 18 - 29: 29
-769,Cano,Natalia,8000,123,F: 30,00:50:50.57,FEM. 40 - 49: 10
-620,Gomez,Jose Maria,8000,124,M: 94,00:50:50.75,MASC 30 - 39: 39
-709,Sambueza,Patricia Soledad,8000,125,F: 31,00:50:52.63,FEM. 30 - 39: 9
-739,Lazarte,Miguel Omar,8000,126,M: 95,00:50:59.10,MASC 40 - 49: 21
-821,Retamal,Juana Ida,8000,127,F: 32,00:51:20.36,FEM. 40 - 49: 11
-764,Appiolaza,Iris Febea,8000,128,F: 33,00:51:20.99,FEM. 40 - 49: 12
-522,Liotta,Juan Ignacio,8000,129,M: 96,00:51:23.42,MASC 18 - 29: 30
-822,Rodriguez,Vanesa,8000,130,F: 34,00:51:30.08,FEM. 40 - 49: 13
-819,Porco,Ang?lica,8000,131,F: 35,00:51:32.16,FEM. 40 - 49: 14
-661,Avila,Andrea,8000,132,F: 36,00:51:37.72,FEM. 30 - 39: 10
-527,Montaldi,Adrian Agustin,8000,133,M: 97,00:51:37.73,MASC 18 - 29: 31
-740,Martin,Juan,8000,134,M: 98,00:51:38.30,MASC 40 - 49: 22
-532,Palacios,Bautista,8000,135,M: 99,00:51:40.56,MASC 18 - 29: 32
-859,Salom?n,Ruben Edgardo,8000,136,M: 100,00:51:42.50,MASC 50 - 59: 6
-768,Bustos,Fabiana,8000,137,F: 37,00:51:55.56,FEM. 40 - 49: 15
-604,Caceres,Marcos Emilio,8000,138,M: 101,00:51:57.04,MASC 30 - 39: 40
-694,L?pez,Camila,8000,139,F: 38,00:52:03.89,FEM. 30 - 39: 11
-850,Garro,Dorigoni Fabian Marcelo,8000,140,M: 102,00:52:11.63,MASC 50 - 59: 7
-691,Lara,Ingrid Soledad,8000,141,F: 39,00:52:24.95,FEM. 30 - 39: 12
-686,Izquierdo,Carina,8000,142,F: 40,00:52:27.90,FEM. 30 - 39: 13
-750,Riquelme,Gustavo Jorge,8000,143,M: 103,00:52:45.03,MASC 40 - 49: 23
-788,Fritz,Mariana,8000,144,F: 41,00:52:49.10,FEM. 40 - 49: 16
-511,Ferreyra,Ezequiel,8000,145,M: 104,00:52:52.82,MASC 18 - 29: 33
-736,Hern?ndez,Juan Pablo,8000,146,M: 105,00:52:53.01,MASC 40 - 49: 24
-558,Barrena,Milagros,8000,147,F: 42,00:52:57.35,FEM. 18 - 29: 13
-537,Ruminot,Axel Leonel,8000,148,M: 106,00:52:59.38,MASC 18 - 29: 34
-656,Alzugaray,Valeria,8000,149,F: 43,00:53:06.50,FEM. 30 - 39: 14
-844,Bustelo,Pablo,8000,150,M: 107,00:53:15.92,MASC 50 - 59: 8
-900,Medin,Marcelo Adri?n,8000,151,M: 108,00:53:19.02,MASC 40 - 49: 25
-658,Arratia,Marianella Natalia,8000,152,F: 44,00:53:21.86,FEM. 30 - 39: 15
-561,Cabrera,Diana,8000,153,F: 45,00:53:24.28,FEM. 18 - 29: 14
-680,Goncalves,Estrella,8000,154,F: 46,00:53:28.32,FEM. 30 - 39: 16
-785,Escobar,Elizabeth Ivana,8000,155,F: 47,00:53:30.12,FEM. 40 - 49: 17
-827,Sanhueza,Elsa Yanina,8000,156,F: 48,00:53:42.45,FEM. 40 - 49: 18
-672,Curinao,Claudia,8000,157,F: 49,00:53:47.00,FEM. 30 - 39: 17
-720,Vizzotto,Adriana Mabel,8000,158,F: 50,00:53:48.25,FEM. 30 - 39: 18
-570,Gomez Meri?o,Alfonsina,8000,159,F: 51,00:53:50.26,FEM. 18 - 29: 15
-555,Aravena,Paola,8000,160,F: 52,00:54:01.62,FEM. 18 - 29: 16
-681,Gonzalez,Veronica,8000,161,F: 53,00:54:06.36,FEM. 30 - 39: 19
-868,Arias,Graciela Fabiana,8000,162,F: 54,00:54:16.86,FEM. 50 y +: 1
-851,Gonz?lez,Carlos Alberto,8000,163,M: 109,00:54:19.26,MASC 50 - 59: 9
-607,Cerda,Heber,8000,164,M: 110,00:54:27.97,MASC 30 - 39: 41
-873,Delgado,Herminda,8000,165,F: 55,00:54:36.43,FEM. 50 y +: 2
-579,Lavoz,Rebeca,8000,166,F: 56,00:54:37.06,FEM. 18 - 29: 17
-667,Cimadevilla,Luciana,8000,167,F: 57,00:54:45.03,FEM. 30 - 39: 20
-583,Montero,Gisella,8000,168,F: 58,00:54:55.49,FEM. 18 - 29: 18
-582,Mello Creide,Sofia,8000,169,F: 59,00:54:56.52,FEM. 18 - 29: 19
-548,Velez,Ignacio,8000,170,M: 111,00:55:04.71,MASC 18 - 29: 35
-651,Vivas,Pablo,8000,171,M: 112,00:55:11.98,MASC 30 - 39: 42
-643,Rodriguez,Juan Raul,8000,172,M: 113,00:55:12.15,MASC 30 - 39: 43
-829,Torres Aguirre,Silvana,8000,173,F: 60,00:55:17.04,FEM. 40 - 49: 19
-810,Navarro,Sandra,8000,174,F: 61,00:55:19.42,FEM. 40 - 49: 20
-717,Vazquez,Noelia,8000,175,F: 62,00:55:20.00,FEM. 30 - 39: 21
-637,Posse,Oberlan,8000,176,M: 114,00:55:20.44,MASC 30 - 39: 44
-562,Cardoso,Natalia Magali,8000,177,F: 63,00:55:24.46,FEM. 18 - 29: 20
-808,Mu?oz Sep?lveda,Marcia,8000,178,F: 64,00:55:25.22,FEM. 40 - 49: 21
-820,Recabarren,Mercedes Rosaura,8000,179,F: 65,00:55:28.60,FEM. 40 - 49: 22
-662,Candela,Valeria Silvana,8000,180,F: 66,00:55:29.06,FEM. 30 - 39: 22
-870,Cano,Tamara Cintia,8000,181,F: 67,00:55:34.36,FEM. 50 y +: 3
-763,Aldana,Natalia Ver?nica,8000,182,F: 68,00:55:35.96,FEM. 40 - 49: 23
-837,Vilal,Isabel,8000,183,F: 69,00:55:39.70,FEM. 40 - 49: 24
-706,P?rez,Eliana Elizabeth,8000,184,F: 70,00:55:51.57,FEM. 30 - 39: 23
-704,Ortiz,Estefanis,8000,185,F: 71,00:55:51.99,FEM. 30 - 39: 24
-673,D?az,Daiana Soledad,8000,186,F: 72,00:55:54.33,FEM. 30 - 39: 25
-793,Gonzalez,Malena,8000,187,F: 73,00:55:58.81,FEM. 40 - 49: 25
-598,Alarc?n,Jonathan,8000,188,M: 115,00:56:13.30,MASC 30 - 39: 45
-738,Holzmann,Pablo,8000,189,M: 116,00:56:14.22,MASC 40 - 49: 26
-890,Baez,Roberto Miguel,8000,190,M: 117,00:56:21.08,MASC 60 y +: 2
-752,Seg?ino,Juan,8000,191,M: 118,00:56:27.46,MASC 40 - 49: 27
-615,Garcia,Enzo Ramon,8000,192,M: 119,00:56:31.23,MASC 30 - 39: 46
-718,Verdecchia,Daiana,8000,193,F: 74,00:56:32.39,FEM. 30 - 39: 26
-668,Cofr?,Daiana Soledad,8000,194,F: 75,00:56:33.90,FEM. 30 - 39: 27
-807,Mu?oz,Mabel,8000,195,F: 76,00:56:34.88,FEM. 40 - 49: 26
-504,Barriga,Agust?n Ezequiel,8000,196,M: 120,00:56:39.79,MASC 18 - 29: 36
-632,Parra Burgos,Jacob Antonio,8000,197,M: 121,00:56:45.81,MASC 30 - 39: 47
-816,Perez,Daniela,8000,198,F: 77,00:56:59.02,FEM. 40 - 49: 27
-708,Saco,Maria Nieves,8000,199,F: 78,00:57:03.22,FEM. 30 - 39: 28
-799,Marks,Ruth Alejandra,8000,200,F: 79,00:57:12.93,FEM. 40 - 49: 28
-631,Mu?oz,Daniel Eduardo,8000,201,M: 122,00:57:15.41,MASC 30 - 39: 48
-792,Giufrida,Leticia Analia,8000,202,F: 80,00:57:19.59,FEM. 40 - 49: 29
-594,Valdebenito,Analis,8000,203,F: 81,00:57:24.55,FEM. 18 - 29: 21
-813,Palomar,Carina Alejandra,8000,204,F: 82,00:57:25.16,FEM. 40 - 49: 30
-595,Valdebenito,Ximena,8000,205,F: 83,00:57:25.93,FEM. 18 - 29: 22
-755,Stefanelli,Roberto Enrique,8000,206,M: 123,00:57:29.11,MASC 40 - 49: 28
-543,Stefanelli,Lautaro Demian,8000,207,M: 124,00:57:29.53,MASC 18 - 29: 37
-665,Chagumil,Viviana,8000,208,F: 84,00:57:29.93,FEM. 30 - 39: 29
-839,Villaverde,Soledad,8000,209,F: 85,00:57:34.01,FEM. 40 - 49: 31
-780,Creide,Mariana Andrea,8000,210,F: 86,00:57:52.54,FEM. 40 - 49: 32
-779,Creide,Carina,8000,211,F: 87,00:58:04.48,FEM. 40 - 49: 33
-770,Cardenas,Paola,8000,212,F: 88,00:58:12.00,FEM. 40 - 49: 34
-758,Velez,Jose Luis,8000,213,M: 125,00:58:26.99,MASC 40 - 49: 29
-847,Cheuque,Emilio,8000,214,M: 126,00:58:29.52,MASC 50 - 59: 10
-798,Llanos Cruz,Florencia,8000,215,F: 89,00:58:30.96,FEM. 40 - 49: 35
-690,Lagra?a,Manuela,8000,216,F: 90,00:58:31.75,FEM. 30 - 39: 30
-685,I?iguez,Veron Florencia Natalia,8000,217,F: 91,00:58:36.34,FEM. 30 - 39: 31
-732,Fuentes,Miguel Angel,8000,218,M: 127,00:58:39.97,MASC 40 - 49: 30
-678,Garc?a,Fernanda,8000,219,F: 92,00:58:43.11,FEM. 30 - 39: 32
-696,Marcos,Soledad,8000,220,F: 93,00:58:45.95,FEM. 30 - 39: 33
-783,Dur?n,Angelica,8000,221,F: 94,00:58:48.89,FEM. 40 - 49: 36
-823,Rogel,Valeria Ver?nica,8000,222,F: 95,00:58:55.08,FEM. 40 - 49: 37
-580,L?pez,Aldana,8000,223,F: 96,00:59:02.99,FEM. 18 - 29: 23
-762,Alarc?n,Teresa Isabel,8000,224,F: 97,00:59:04.75,FEM. 40 - 49: 38
-501,Acevedo Vera,Gonzalo Ezequiel,8000,225,M: 128,00:59:09.78,MASC 18 - 29: 38
-707,Pinto,Yaura,8000,226,F: 98,00:59:21.48,FEM. 30 - 39: 34
-833,Vazquez,Graciela Elizabeth,8000,227,F: 99,00:59:24.24,FEM. 40 - 49: 39
-596,Valdes,Malen,8000,228,F: 100,00:59:36.22,FEM. 18 - 29: 24
-840,Zurita,Natalia,8000,229,F: 101,00:59:39.67,FEM. 40 - 49: 40
-670,Cordova,Patricia,8000,230,F: 102,00:59:42.01,FEM. 30 - 39: 35
-581,Lopez,Guadalupe Carolina,8000,231,F: 103,00:59:43.79,FEM. 18 - 29: 25
-510,Chirino,Benjamin,8000,232,M: 129,00:59:45.67,MASC 18 - 29: 39
-874,Fanton,Mariana,8000,233,F: 104,00:59:58.32,FEM. 50 y +: 4
-831,Torres,Siu Griselda,8000,234,F: 105,01:00:19.24,FEM. 40 - 49: 41
-815,Pavon,Veronica Andrea,8000,235,F: 106,01:00:20.31,FEM. 40 - 49: 42
-565,Cayutur,Soledad,8000,236,F: 107,01:00:24.95,FEM. 18 - 29: 26
-886,Romero,Maria Cecilia,8000,237,F: 108,01:00:30.95,FEM. 50 y +: 5
-782,Dietrich,Veronica,8000,238,F: 109,01:00:43.01,FEM. 40 - 49: 43
-701,Mu?oz,Patricia Daniela,8000,239,F: 110,01:00:46.22,FEM. 30 - 39: 36
-669,Cofre,Stephania,8000,240,F: 111,01:00:49.64,FEM. 30 - 39: 37
-881,Milipil,Mirta,8000,241,F: 112,01:00:53.63,FEM. 50 y +: 6
-676,Ferreira,Paola,8000,242,F: 113,01:00:59.99,FEM. 30 - 39: 38
-892,Collins,Ricardo,8000,243,M: 130,01:01:04.38,MASC 60 y +: 3
-878,Labadie,Silvia Liliana,8000,244,F: 114,01:01:06.80,FEM. 50 y +: 7
-534,Perez,David,8000,245,M: 131,01:01:16.73,MASC 18 - 29: 40
-765,Arana,Marina,8000,246,F: 115,01:01:19.96,FEM. 40 - 49: 44
-523,L?pez,Tom?s,8000,247,M: 132,01:01:22.83,MASC 18 - 29: 41
-893,Jade,Juan Carlos,8000,248,M: 133,01:01:25.90,MASC 60 y +: 4
-861,Torres,Alejandro C?sar Roberto,8000,249,M: 134,01:01:25.93,MASC 50 - 59: 11
-774,Castillo,Ver?nica Marcela,8000,250,F: 116,01:01:27.04,FEM. 40 - 49: 45
-675,Echazarreta,Ayelen Josefina,8000,251,F: 117,01:01:27.85,FEM. 30 - 39: 39
-609,Contreras,Jonatan Daniel,8000,252,M: 135,01:01:28.67,MASC 30 - 39: 49
-660,Ascencio,Celeste Belen,8000,253,F: 118,01:01:41.71,FEM. 30 - 39: 40
-812,Pacheco,Mariana,8000,254,F: 119,01:01:57.35,FEM. 40 - 49: 46
-882,Morales,Alba Nancy,8000,255,F: 120,01:02:08.06,FEM. 50 y +: 8
-721,Yancarlos,Silvina Zulema,8000,256,F: 121,01:02:08.66,FEM. 30 - 39: 41
-828,Santos,Adriana Elizabeth,8000,257,F: 122,01:02:11.36,FEM. 40 - 49: 47
-560,Bravo,Micaela,8000,258,F: 123,01:02:18.30,FEM. 18 - 29: 27
-714,Valdez,Soledad,8000,259,F: 124,01:02:37.72,FEM. 18 - 29: 28
-710,Schwapp,Rocio,8000,260,F: 125,01:02:41.84,FEM. 30 - 39: 42
-608,Coloma,Alejandro,8000,261,M: 136,01:02:54.03,MASC 30 - 39: 50
-884,Orellana,Norma,8000,262,F: 126,01:02:56.33,FEM. 50 y +: 9
-836,Vicintini,Maria Soledad,8000,263,F: 127,01:03:01.35,FEM. 40 - 49: 48
-683,Hernandez,Noelia Emilia,8000,264,F: 128,01:03:12.98,FEM. 30 - 39: 43
-806,Moretti,Alicia Paola,8000,265,F: 129,01:03:14.53,FEM. 40 - 49: 49
-802,Mercado,Sandra,8000,266,F: 130,01:03:15.99,FEM. 40 - 49: 50
-761,Alarc?n,Mar?a Alejandra,8000,267,F: 131,01:03:18.87,FEM. 40 - 49: 51
-784,Dur?n,Silvana Del Carmen,8000,268,F: 132,01:03:19.37,FEM. 40 - 49: 52
-832,Tripailao,Marcela Emilse,8000,269,F: 133,01:03:19.89,FEM. 40 - 49: 53
-781,Da San,Martino Elena,8000,270,F: 134,01:03:41.57,FEM. 40 - 49: 54
-545,Tromba,Julian,8000,271,M: 137,01:03:46.51,MASC 18 - 29: 42
-585,Paolucci,Agustina,8000,272,F: 135,01:03:48.27,FEM. 18 - 29: 29
-713,Travecino,Brenda,8000,273,F: 136,01:04:00.57,FEM. 30 - 39: 44
-876,Guevara,Marcela Fabiana,8000,274,F: 137,01:04:11.88,FEM. 50 y +: 10
-849,Erasun,Roberto An?bal,8000,275,M: 138,01:04:31.48,MASC 50 - 59: 12
-756,Valenzuela,Angel Fernando,8000,276,M: 139,01:04:32.67,MASC 40 - 49: 31
-693,Llanquinao,Hilda,8000,277,F: 138,01:04:38.62,FEM. 30 - 39: 45
-805,Morales,Maria Karina,8000,278,F: 139,01:05:15.09,FEM. 40 - 49: 55
-593,Vaccari,Agustina,8000,279,F: 140,01:05:18.07,FEM. 18 - 29: 30
-862,Zampa,Daniel Angel,8000,280,M: 140,01:05:22.52,MASC 50 - 59: 13
-869,Buglione,Maria Jose,8000,281,F: 141,01:05:28.92,FEM. 50 y +: 11
-705,Parra,Vanesa,8000,282,F: 142,01:05:37.31,FEM. 30 - 39: 46
-843,Bonoris,Juan Pablo,8000,283,M: 141,01:05:39.42,MASC 50 - 59: 14
-860,Silva,Eduardo Marcelo,8000,284,M: 142,01:05:42.66,MASC 50 - 59: 15
-531,Palacios,Axel Ignacio,8000,285,M: 143,01:05:56.86,MASC 18 - 29: 43
-776,C?rdoba,Mar?a Jos?,8000,286,F: 143,01:05:57.67,FEM. 40 - 49: 56
-777,Cordoba,Mariana Margarita,8000,287,F: 144,01:05:58.00,FEM. 40 - 49: 57
-888,Sosa,Rosal?a,8000,288,F: 145,01:05:59.86,FEM. 50 y +: 12
-689,Jorquera,Julieta,8000,289,F: 146,01:06:11.83,FEM. 30 - 39: 47
-817,Perez,Mariela,8000,290,F: 147,01:06:13.20,FEM. 40 - 49: 58
-826,S?nchez,Gladys,8000,291,F: 148,01:06:30.09,FEM. 40 - 49: 59
-775,Cayunao,Olga,8000,292,F: 149,01:06:39.63,FEM. 40 - 49: 60
-866,Alcal?,Helena,8000,293,F: 150,01:07:15.48,FEM. 50 y +: 13
-787,Fioretti,Ivana Maribel,8000,294,F: 151,01:07:18.66,FEM. 40 - 49: 61
-700,Mu?oz,Lorena,8000,295,F: 152,01:07:26.06,FEM. 30 - 39: 48
-773,Castillo,Alicia,8000,296,F: 153,01:07:56.09,FEM. 40 - 49: 62
-715,Vargas,Natalia,8000,297,F: 154,01:08:20.04,FEM. 30 - 39: 49
-864,Aguiar,Mar?a Elizabeth,8000,298,F: 155,01:08:23.60,FEM. 50 y +: 14
-655,Alveal,Soledad,8000,299,F: 156,01:08:31.72,FEM. 30 - 39: 50
-797,Linai,Lorena,8000,300,F: 157,01:08:37.10,FEM. 40 - 49: 63
-825,Rubio,Adriana,8000,301,F: 158,01:08:43.23,FEM. 40 - 49: 64
-692,Leiva,Giselle,8000,302,F: 159,01:09:16.18,FEM. 30 - 39: 51
-711,Senn,Erika,8000,303,F: 160,01:09:20.98,FEM. 30 - 39: 52
-716,Vasquez,Rosa Yanet,8000,304,F: 161,01:09:47.56,FEM. 30 - 39: 53
-712,Tirachini,Agustina,8000,305,F: 162,01:09:57.73,FEM. 30 - 39: 54
-519,Jaureguiberry,Geronimo,8000,306,M: 144,01:10:04.38,MASC 18 - 29: 44
-528,Morgado,Felipe Manuel,8000,307,M: 145,01:10:04.66,MASC 18 - 29: 45
-879,Lopez,Liliana,8000,308,F: 163,01:10:14.04,FEM. 50 y +: 15
-853,Mattiocco,Pablo,8000,309,M: 146,01:10:22.16,MASC 50 - 59: 16
-771,Carrasco,Eliana Patricia,8000,310,F: 164,01:10:23.06,FEM. 40 - 49: 65
-852,Hern?ndez,Claudio,8000,311,M: 147,01:10:32.85,MASC 50 - 59: 17
-597,Vargas,Samanta,8000,312,F: 165,01:10:55.04,FEM. 18 - 29: 31
-569,Gabis,Antonella,8000,313,F: 166,01:10:57.00,FEM. 18 - 29: 32
-824,Romero,Estela Anahi,8000,314,F: 167,01:10:58.13,FEM. 40 - 49: 66
-588,Ralinqueo,Rocio,8000,315,F: 168,01:11:08.37,FEM. 18 - 29: 33
-743,Melgarejo,Francisco,8000,316,M: 148,01:11:22.55,MASC 40 - 49: 32
-863,Abella Gonzalez,C. Marisa,8000,317,F: 169,01:11:51.29,FEM. 50 y +: 16
-554,Almendra,Malena,8000,318,F: 170,01:12:41.20,FEM. 18 - 29: 34
-648,Strada,Jonathan,8000,319,M: 149,01:13:17.78,MASC 30 - 39: 51
-880,Mendez,Patricia,8000,320,F: 171,01:13:26.72,FEM. 50 y +: 17
-575,Jasin,Abigail,8000,321,F: 172,01:13:35.22,FEM. 18 - 29: 35
-688,Jofre,Silvina,8000,322,F: 173,01:13:49.53,FEM. 30 - 39: 55
-578,Kleinbard,Ailen,8000,323,F: 174,01:13:54.65,FEM. 18 - 29: 36
-698,Montero,Vanesa Elizabeth,8000,324,F: 175,01:14:00.47,FEM. 30 - 39: 56
-535,Rodriguez,Marcos,8000,325,M: 150,01:14:19.46,MASC 18 - 29: 46
-553,Agudino,Sofia Camila,8000,326,F: 176,01:14:19.76,FEM. 18 - 29: 37
-702,Neri,Melisa Gisel,8000,327,F: 177,01:14:57.14,FEM. 30 - 39: 57
-875,Gattari,Marcela,8000,328,F: 178,01:15:08.15,FEM. 50 y +: 18
-602,Bravo,Mariano Daniel,8000,329,M: 151,01:15:28.73,MASC 30 - 39: 52
-896,Zapata,Rodolfo,8000,330,M: 152,01:15:42.83,MASC 60 y +: 5
-858,Sagues,--,8000,331,M: 153,01:15:48.66,MASC 50 - 59: 18
-789,Fuentes,Mar?a Alejandra,8000,332,F: 179,01:16:55.92,FEM. 40 - 49: 67
-778,Coronel,Norma Alejandra,8000,333,F: 180,01:16:56.29,FEM. 40 - 49: 68
-865,Albornoz,Norma Beatriz,8000,334,F: 181,01:18:14.47,FEM. 50 y +: 19
-887,Sanhueza,Graciela,8000,335,F: 182,01:19:10.28,FEM. 50 y +: 20
-796,Herrera,Cecilia,8000,336,F: 183,01:19:49.53,FEM. 40 - 49: 69
-622,Huayquillan,Marcelo Orlando,8000,337,M: 154,01:20:11.76,MASC 30 - 39: 53
-790,Funes,Paola,8000,338,F: 184,01:20:36.93,FEM. 40 - 49: 70
-801,Mendez,Erika,8000,339,F: 185,01:20:44.48,FEM. 40 - 49: 71
-809,Namuncura,Lucrecia,8000,340,F: 186,01:20:56.90,FEM. 40 - 49: 72
-687,Jimenez,Maria Paula,8000,341,F: 187,01:29:45.33,FEM. 30 - 39: 58
-657,Andrada,Veronica Esther,8000,342,F: 188,01:31:03.26,FEM. 30 - 39: 59
+﻿1,Corrias,Alexis,21K,1,M: 1,01:24:55,M 30 - 34: 1
+3,Fernandez,Mauro,21K,7,M: 7,01:32:57,M 35 - 39: 1
+4,Ferroni,Yanina,21K,51,F: 5,02:00:33,F 50 - 54: 1
+5,Flores,Roxana,21K,14,F: 1,01:44:13,F 35 - 39: 1
+6,Garcia,Rodrigo,21K,2,M: 2,01:29:56,M 18 - 29: 1
+7,Acevedo,Denis Lucas,21K,39,M: 36,01:55:14,M 18 - 29: 7
+8,Acevedo,Jose David,21K,113,M: 90,02:22:59,M 60 - 64: 2
+9,Acevedo,Veronica,21K,133,F: 34,02:28:06,F 35 - 39: 10
+11,Alarcon,Hector Horacio,21K,57,M: 52,02:02:28,M 60 - 64: 1
+13,Alvarez Guidi,Gabriela,21K,58,F: 6,02:02:32,F 45 - 49: 1
+14,Alvarez,Ivonne,21K,198,F: 74,03:31:49,F 30 - 34: 9
+15,Alveal,Lorena,21K,184,F: 65,03:07:33,F 40 - 44: 19
+16,Ampuero,Julio,21K,47,M: 43,02:00:12,M 55 - 59: 3
+17,Angeloni,Sergio,21K,121,M: 95,02:25:32,M 35 - 39: 21
+18,Antiqueo,Marcela,21K,138,F: 39,02:29:40,F 35 - 39: 11
+19,Aranda,Laura,21K,196,F: 73,03:23:03,F 45 - 49: 13
+20,Aranibe,Gerardo Enrique,21K,116,M: 92,02:25:17,M 40 - 44: 12
+21,Araya,Emanuel,21K,80,M: 67,02:10:11,M 30 - 34: 10
+22,Arden,Adrian,21K,177,M: 115,02:54:12,M 45 - 49: 13
+23,Arden,Alberto,21K,178,M: 116,02:54:13,M 45 - 49: 14
+24,Arias Bonacchi,Agustina,21K,79,F: 13,02:09:25,F 18 - 29: 2
+25,Arias,Nestor Fabian,21K,36,M: 34,01:53:53,M 50 - 54: 4
+26,Arpajou,Jaime Sur,21K,105,M: 84,02:21:21,M 35 - 39: 19
+27,Arroyo,Ariel Augusto,21K,129,M: 98,02:27:11,M 35 - 39: 22
+28,Auada,Ezequiel,21K,65,M: 57,02:04:45,M 35 - 39: 16
+29,Ballve Bengolea,Maximo Jose,21K,32,M: 30,01:53:34,M 35 - 39: 10
+30,Balmaceda,Nancy,21K,179,F: 63,02:54:17,F 50 - 54: 5
+31,Barreiro,Silvina,21K,147,F: 43,02:34:01,F 40 - 44: 11
+32,Barria,Miguel Angel,21K,62,M: 54,02:03:58,M 55 - 59: 4
+33,Bazan,Paola Natalia,21K,137,F: 38,02:29:11,F 40 - 44: 9
+34,Benitez,Marcela,21K,94,F: 16,02:14:08,F 30 - 34: 3
+35,Benitez,Nora Patricia,21K,192,F: 70,03:18:33,F 60 Y +: 2
+36,Bertalot,Mario Fernando,21K,106,M: 85,02:21:21,M 55 - 59: 8
+38,Buceta,Federico Luis,21K,27,M: 25,01:50:27,M 35 - 39: 8
+39,Buceta,Matias,21K,9,M: 9,01:38:14,M 18 - 29: 4
+40,Burgos,Luis,21K,15,M: 14,01:45:16,M 30 - 34: 4
+41,Canale,Mauro,21K,86,M: 73,02:12:03,M 35 - 39: 18
+42,Caneo,Elizabeth,21K,134,F: 35,02:28:17,F 50 - 54: 3
+43,Caneo,Fernando,21K,10,M: 10,01:41:02,M 40 - 44: 2
+44,Cañumir,Jose Omar,21K,90,M: 75,02:13:38,M 40 - 44: 10
+45,Carbonell,Angel Enrique,21K,91,M: 76,02:13:49,M 55 - 59: 7
+46,Carmona,Jorgelina,21K,69,F: 9,02:07:05,F 50 - 54: 2
+47,Caro,Romina,21K,174,F: 60,02:52:50,F 18 - 29: 4
+48,Carrasco,Ezequiel,21K,182,M: 119,02:59:53,M 45 - 49: 16
+49,Cartier,Andrea,21K,131,F: 32,02:27:19,F 45 - 49: 5
+50,Castillo,Adrian O. Javier,21K,98,M: 80,02:17:23,M 50 - 54: 16
+51,Castillo,Cristino,21K,114,M: 91,02:23:20,M 70 a 79: 1
+53,Catrin,Miguel Gustavo,21K,17,M: 16,01:46:25,M 45 - 49: 1
+54,Cayupan,Miguel,21K,6,M: 6,01:32:43,M 40 - 44: 1
+55,Cecchini,Natalia,21K,88,F: 14,02:12:06,F 30 - 34: 2
+56,Cecchini,Omar,21K,180,M: 117,02:56:55,M 55 - 59: 12
+57,Cerezuela,Natalia,21K,122,F: 27,02:25:42,F 35 - 39: 8
+58,Cervera,Jose,21K,73,M: 63,02:08:17,M 55 - 59: 6
+59,Chavero,Dardo Emanuel,21K,18,M: 17,01:46:50,M 35 - 39: 4
+60,Choque,Sanchez Lorenzo Marcos,21K,153,M: 106,02:36:28,M 40 - 44: 15
+61,Cisterna,Adrian,21K,44,M: 40,01:59:05,M 40 - 44: 8
+63,Coppa,Denis,21K,8,M: 8,01:35:13,M 35 - 39: 2
+64,Correa,Alex,21K,24,M: 22,01:49:31,M 35 - 39: 7
+65,Costa,Luciano,21K,144,M: 102,02:32:22,M 40 - 44: 14
+66,Coviaga,Maria Gabriela,21K,97,F: 18,02:15:52,F 35 - 39: 5
+67,Crisanti,Emilia,21K,42,F: 4,01:58:43,F 30 - 34: 1
+68,Cuestas,Jose A,21K,70,M: 61,02:07:10,M 55 - 59: 5
+69,Cumilao,Aurelio,21K,81,M: 68,02:10:37,M 65 - 69: 1
+70,Cuper,Ana,21K,89,F: 15,02:12:46,F 35 - 39: 4
+72,Diaz,Anahi Micaela,21K,186,F: 66,03:09:18,F 35 - 39: 15
+73,Diaz,Adrian Dario,21K,66,M: 58,02:06:11,M 50 - 54: 9
+74,Dinamarca,Alfredo Alberto,21K,194,M: 123,03:21:59,M 65 - 69: 5
+75,Dupre,Gabriel,21K,64,M: 56,02:04:07,M 18 - 29: 8
+76,Encina,Soledad,21K,123,F: 28,02:25:57,F 40 - 44: 6
+77,Epulef,Marcelina,21K,132,F: 33,02:27:54,F 30 - 34: 8
+78,Escalona,Liliana,21K,199,F: 75,03:34:25,F 55 - 59: 5
+79,Escardo,Marcos,21K,87,M: 74,02:12:03,M 45 - 49: 8
+80,Espinosa,Sonia,21K,150,F: 46,02:34:29,F 45 - 49: 7
+81,Fantile,Alejandra,21K,77,F: 12,02:09:05,F 45 - 49: 3
+82,Fernandez,Jorge Ruben,21K,146,M: 104,02:32:38,M 60 - 64: 4
+83,Fernandez,Maria Susana,21K,170,F: 56,02:50:41,F 35 - 39: 14
+84,Fieg,Gregorio,21K,40,M: 37,01:58:24,M 30 - 34: 5
+85,Franco Rueda,Rodrigo,21K,25,M: 23,01:49:56,M 18 - 29: 5
+86,Freixa,Jose Luis,21K,117,M: 93,02:25:20,M 60 - 64: 3
+87,Garcia,Diego,21K,20,M: 19,01:48:02,M 40 - 44: 4
+89,Gattas,Ricardo,21K,110,M: 88,02:21:58,M 65 - 69: 3
+90,Gil,Roberto,21K,109,M: 87,02:21:44,M 55 - 59: 9
+91,Goicoechea,Miguel,21K,11,M: 11,01:41:39,M 30 - 34: 3
+92,Gomez,Noelia,21K,127,F: 30,02:26:55,F 40 - 44: 7
+93,Gonzalez,Carlos Alberto,21K,191,M: 122,03:17:07,M 65 - 69: 4
+94,Gonzalez,Felix Roberto,21K,130,M: 99,02:27:18,M 55 - 59: 10
+95,Gonzalez,Gaston,21K,46,M: 42,01:59:29,M 30 - 34: 6
+96,Gonzalez,Mariana,21K,140,F: 40,02:30:54,F 40 - 44: 10
+97,Gonzalez,Miguel (Lorito),21K,26,M: 24,01:50:23,M 55 - 59: 1
+98,Gonzalez,Nicolas,21K,23,M: 21,01:49:07,M 45 - 49: 2
+99,Graf,Omar,21K,139,M: 100,02:30:36,M 50 - 54: 20
+100,Grassano,Jonatan,21K,49,M: 45,02:00:28,M 35 - 39: 13
+101,Grassmann,Sofia,21K,159,F: 50,02:43:01,F 18 - 29: 3
+102,Greck,Ricardo Osvaldo,21K,197,M: 124,03:24:49,M 70 a 79: 2
+103,Guerrero,Sergio,21K,12,M: 12,01:43:43,M 35 - 39: 3
+104,Gutierrez,Carlos Osvaldo,21K,181,M: 118,02:58:37,M 45 - 49: 15
+105,Hegoburu,Lorena,21K,61,F: 8,02:03:44,F 40 - 44: 2
+106,Hernandez,Sandra Veronica,21K,141,F: 41,02:31:04,F 35 - 39: 12
+107,Hondagneu Roig,Fernando,21K,84,M: 71,02:11:50,M 50 - 54: 12
+109,Ibarra,Pablo,21K,102,M: 82,02:19:59,M 50 - 54: 17
+110,Iglesias,Diego Rafael,21K,63,M: 55,02:04:06,M 45 - 49: 4
+111,Inostroza,Claudia Beronica,21K,152,F: 47,02:36:11,F 50 - 54: 4
+112,Iranzo,David Agustin,21K,161,M: 110,02:44:56,M 40 - 44: 16
+115,Jaramillo,Domingo,21K,3,M: 3,01:30:38,M 30 - 34: 2
+117,Lacamoire,Dario,21K,166,M: 112,02:48:09,M 60 - 64: 5
+118,Latuf,Daniel,21K,71,M: 62,02:07:16,M 45 - 49: 6
+119,Leon,Claudio Miguel,21K,59,M: 53,02:02:48,M 50 - 54: 8
+120,Lienlaf,Nahuel,21K,5,M: 5,01:30:51,M 18 - 29: 3
+121,Lima,Romina Anabela,21K,126,F: 29,02:26:53,F 30 - 34: 7
+122,Lleuful,Rosa,21K,156,F: 48,02:39:24,F 45 - 49: 8
+123,Lopez,Jose Orlando,21K,99,M: 81,02:17:29,M 65 - 69: 2
+124,Luis,Maria De Los Angeles,21K,119,F: 26,02:25:29,F 30 - 34: 6
+125,Maggio,Adrian,21K,104,M: 83,02:20:39,M 50 - 54: 18
+126,Maida,Viviana,21K,115,F: 24,02:23:40,F 45 - 49: 4
+127,Main,Guido,21K,52,M: 47,02:00:46,M 35 - 39: 14
+129,Mansilla,Rocio,21K,175,F: 61,02:52:52,F 40 - 44: 18
+131,Martin,Alejandro,21K,143,M: 101,02:32:19,M 35 - 39: 23
+132,Martinez,Alex William,21K,53,M: 48,02:00:52,M 30 - 34: 7
+133,Martinez,Paola,21K,38,F: 3,01:54:11,F 35 - 39: 3
+134,Mazzitelli,Lucas,21K,151,M: 105,02:35:15,M 18 - 29: 9
+136,Mella,Alejandro,21K,22,M: 20,01:48:34,M 35 - 39: 6
+137,Mellado,Walter Fabian,21K,54,M: 49,02:01:13,M 40 - 44: 9
+138,Mendez,Roxana Mariela,21K,60,F: 7,02:03:34,F 40 - 44: 1
+139,Minio,Nicolas,21K,158,M: 109,02:40:59,M 18 - 29: 11
+140,Mirazo,Jorge,21K,167,M: 113,02:49:23,M 55 - 59: 11
+141,Molina,Veronica,21K,107,F: 22,02:21:31,F 40 - 44: 4
+142,Morales,Florencia Natalia,21K,189,F: 69,03:14:51,F 18 - 29: 5
+143,Morales,Joel,21K,190,M: 121,03:15:14,M 50 - 54: 21
+144,Morales,Martin,21K,145,M: 103,02:32:30,M 45 - 49: 11
+145,Morales,Rodolfo Buenaventura,21K,45,M: 41,01:59:21,M 55 - 59: 2
+146,Muñecas,Julio Cesar,21K,50,M: 46,02:00:33,M 50 - 54: 6
+147,Muñoz,Maria Elena,21K,187,F: 67,03:10:03,F 50 - 54: 6
+148,Muñoz,Graciela,21K,195,F: 72,03:22:45,F 35 - 39: 16
+149,Muñoz Marilef,Magdalena,21K,165,F: 54,02:48:07,F 40 - 44: 15
+150,Norry,Fatima Del Rosario,21K,118,F: 25,02:25:26,F 30 - 34: 5
+151,Ñancurpay,Claudia Alejandra,21K,136,F: 37,02:29:06,F 45 - 49: 6
+152,Ocejo,Mauricio,21K,55,M: 50,02:02:16,M 50 - 54: 7
+153,Ochoa,Juan Ramon,21K,120,M: 94,02:25:30,M 45 - 49: 10
+155,Osacar,Florencia,21K,128,F: 31,02:27:05,F 35 - 39: 9
+156,Paolini,Ruben Alejandro,21K,95,M: 79,02:15:14,M 50 - 54: 15
+157,Perez,Adrian,21K,67,M: 59,02:06:42,M 35 - 39: 17
+159,Perticarini,Cristian,21K,48,M: 44,02:00:13,M 35 - 39: 12
+160,Pezoa,Virginia,21K,169,F: 55,02:49:39,F 60 Y +: 1
+161,Pichimil,Romina Paola,21K,164,F: 53,02:48:05,F 40 - 44: 14
+162,Pino,Nicolas,21K,154,M: 107,02:38:17,M 18 - 29: 10
+164,Piutrin,Eduardo,21K,185,M: 120,03:08:14,M 45 - 49: 17
+165,Pizarro,Claudio Ruben,21K,34,M: 32,01:53:45,M 50 - 54: 3
+166,Poblete,Oscar Norberto,21K,108,M: 86,02:21:36,M 35 - 39: 20
+167,Ponce De Leon,Gabriel,21K,28,M: 26,01:51:59,M 40 - 44: 5
+168,Quintana,Susana Elizabeth,21K,135,F: 36,02:28:20,F 40 - 44: 8
+169,Quiroga,Rodrigo H,21K,78,M: 66,02:09:13,M 45 - 49: 7
+170,Ramallo,Marcelo Gustavo,21K,83,M: 70,02:11:40,M 50 - 54: 11
+171,Ramirez,Luis,21K,68,M: 60,02:06:57,M 45 - 49: 5
+172,Ramos,Irene,21K,193,F: 71,03:20:21,F 45 - 49: 12
+173,Ramos,Roman Emilio,21K,124,M: 96,02:26:13,M 50 - 54: 19
+174,Retamal,Maria Paula,21K,142,F: 42,02:31:55,F 35 - 39: 13
+175,Reybet,Ana Carolina,21K,171,F: 57,02:51:07,F 40 - 44: 16
+176,Reyes,Andrea Viviana,21K,76,F: 11,02:08:45,F 45 - 49: 2
+177,Rioseco,Shaira,21K,72,F: 10,02:07:26,F 18 - 29: 1
+178,Robledo,Daniel Alejandro,21K,56,M: 51,02:02:23,M 35 - 39: 15
+179,Rodriguez,Antonio,21K,75,M: 65,02:08:34,M 30 - 34: 9
+180,Rodriguez,Daniel Alejandro,21K,92,M: 77,02:13:53,M 40 - 44: 11
+181,Rodriguez,Tomas,21K,13,M: 13,01:43:45,M 40 - 44: 3
+182,Rossi,Maria Gimena,21K,100,F: 19,02:17:44,F 35 - 39: 6
+183,Sacne,Alfredo,21K,201,M: 125,03:50:29,M 80 Y +: 1
+184,Saez,Erica,21K,173,F: 59,02:52:40,F 55 - 59: 2
+185,Saez,Fabio Nestor,21K,93,M: 78,02:14:06,M 50 - 54: 14
+186,San Martin,Marlene,21K,183,F: 64,03:01:52,F 45 - 49: 11
+187,Saso,Juan Carlos,21K,33,M: 31,01:53:38,M 50 - 54: 2
+189,Silva,Luisa,21K,149,F: 45,02:34:16,F 40 - 44: 13
+190,Silveira,Claudia Paola,21K,103,F: 21,02:20:20,F 40 - 44: 3
+191,Soldera,Daniela,21K,188,F: 68,03:14:43,F 55 - 59: 4
+192,Soto,Jesus Humberto,21K,168,M: 114,02:49:30,M 40 - 44: 17
+193,Soto,Jose Luis,21K,16,M: 15,01:46:10,M 50 - 54: 1
+194,Tappata,Mariano,21K,162,M: 111,02:45:48,M 45 - 49: 12
+195,Tardones,Fabian,21K,85,M: 72,02:11:54,M 50 - 54: 13
+196,Tartaglia,Ariel,21K,37,M: 35,01:54:00,M 50 - 54: 5
+198,Temi,Angela,21K,176,F: 62,02:53:06,F 55 - 59: 3
+200,Titanti,Maria Eugenia,21K,172,F: 58,02:52:06,F 40 - 44: 17
+201,Trecanao,Eleonora,21K,160,F: 51,02:44:08,F 55 - 59: 1
+202,Tripailao,Daniel,21K,29,M: 27,01:52:19,M 35 - 39: 9
+203,Troncoso,Maria Elena,21K,163,F: 52,02:47:25,F 45 - 49: 10
+204,Valenti,Flavio,21K,111,M: 89,02:22:07,M 45 - 49: 9
+205,Valenzuela,Matias,21K,155,M: 108,02:38:44,M 35 - 39: 24
+206,Valiente,Valeria,21K,157,F: 49,02:40:31,F 45 - 49: 9
+208,Vargas,Eduardo,21K,31,M: 29,01:53:30,M 40 - 44: 6
+210,Videla,Monica Daniela,21K,148,F: 44,02:34:11,F 40 - 44: 12
+211,Villalba,Maria Esther,21K,200,F: 76,03:42:40,F 50 - 54: 7
+212,Villanueva,Guadalupe,21K,96,F: 17,02:15:22,F 30 - 34: 4
+213,Weber,Ezequiel,21K,35,M: 33,01:53:52,M 40 - 44: 7
+214,Weber,Flavia Romina,21K,101,F: 20,02:18:39,F 35 - 39: 7
+215,Zuñiga,Marcelo,21K,82,M: 69,02:11:18,M 50 - 54: 10
+216,Cerezuela,Francisco,21K,4,M: 4,01:30:40,M 18 - 29: 2
+217,Urioste,Luciana,21K,21,F: 2,01:48:25,F 35 - 39: 2
+218,Rodriguez,Martin Nicolas,21K,74,M: 64,02:08:25,M 30 - 34: 8
+219,Castro,Fernando,21K,30,M: 28,01:53:23,M 18 - 29: 6
+221,Alvarez,Sebastian,21K,43,M: 39,01:58:44,M 35 - 39: 11
+222,Rainao,Alejandro Alberto,21K,19,M: 18,01:47:41,M 35 - 39: 5
+223,Garcia,Pablo,21K,125,M: 97,02:26:18,M 40 - 44: 13
+224,Lefiu,Miguel Anibal,21K,41,M: 38,01:58:39,M 45 - 49: 3
+225,Trafiñanco,Silvia,21K,112,F: 23,02:22:43,F 40 - 44: 5
+1001,Acevedo,Mauro,15K,51,M: 49,01:18:57,M 18 - 29: 14
+1002,Agabios,Florencia,15K,122,F: 18,01:32:08,F 18 - 29: 2
+1003,Alarcon,Teresa Isabel,15K,210,F: 63,01:50:01,F 50 - 54: 4
+1004,Alarcon,Yesica Daniela,15K,176,F: 41,01:43:10,F 30 - 34: 11
+1005,Albanesi,Andrea,15K,230,F: 73,01:57:58,F 45 - 49: 14
+1006,Albornoz,Juan Andres,15K,65,M: 61,01:21:29,M 40 - 44: 12
+1007,Alcazar,Mario Andres,15K,157,M: 125,01:39:06,M 40 - 44: 19
+1008,Alias Micci,Guillermo,15K,151,M: 122,01:38:01,M 35 - 39: 26
+1010,Alvarez,Martin Horacio,15K,103,M: 91,01:29:16,M 45 - 49: 11
+1012,Amaya,Cesar Leandro,15K,131,M: 111,01:33:15,M 40 - 44: 18
+1013,Amenabar,Damaris,15K,249,F: 87,02:08:39,F 30 - 34: 16
+1014,Apaolaza,Miguel Angel,15K,223,M: 154,01:56:07,M 50 - 54: 19
+1015,Aquino,Jonathan,15K,133,M: 113,01:33:23,M 30 - 34: 20
+1016,Araujo,Sandra,15K,231,F: 74,01:58:22,F 45 - 49: 15
+1017,Aravena,Ariel,15K,19,M: 19,01:08:01,M 18 - 29: 6
+1018,Arevalo,Facundo,15K,208,M: 147,01:49:50,M 45 - 49: 20
+1019,Arribere,Maria Paula,15K,183,F: 45,01:44:19,F 40 - 44: 9
+1020,Arrieta,Ana Victoria,15K,250,F: 88,02:09:09,F 45 - 49: 16
+1021,Baez,Marisa,15K,216,F: 66,01:52:19,F 40 - 44: 17
+1022,Baeza,Fabiana,15K,229,F: 72,01:57:21,F 50 - 54: 5
+1023,Baigorria,Oscar,15K,125,M: 107,01:32:16,M 35 - 39: 23
+1024,Bastias,Pablo,15K,26,M: 26,01:11:10,M 35 - 39: 7
+1025,Belandi,Lucia,15K,197,F: 51,01:46:46,F 40 - 44: 11
+1026,Benitez,Daniel,15K,190,M: 141,01:45:10,M 30 - 34: 26
+1027,Beunetta,Esteban,15K,59,M: 56,01:20:32,M 30 - 34: 12
+1028,Biluron,Carlos Daniel,15K,243,M: 161,02:02:52,M 45 - 49: 24
+1029,Bodevin,Daiana,15K,260,F: 95,02:19:52,F 35 - 39: 19
+1030,Bonfanti,Gustavo Ariel,15K,141,M: 117,01:36:15,M 50 - 54: 13
+1031,Bortolussi,Marcelo Rodolfo,15K,213,M: 149,01:50:52,M 55 - 59: 7
+1032,Botelle,Evelina,15K,225,F: 70,01:56:21,F 45 - 49: 13
+1033,Brandt,Roberto,15K,254,M: 164,02:11:45,M 55 - 59: 10
+1034,Brizuela,Nicolas Angel,15K,83,M: 75,01:25:06,M 40 - 44: 13
+1035,Bruno,Jose Gaston,15K,187,M: 140,01:44:26,M 50 - 54: 16
+1036,Calvente,Pedro Daniel,15K,191,M: 142,01:45:36,M 45 - 49: 18
+1037,Camargo,Hugo,15K,36,M: 36,01:15:53,M 45 - 49: 1
+1038,Cano,Tamara Cintia,15K,168,F: 38,01:42:11,F 50 - 54: 2
+1039,Cardenas,Roberto,15K,146,M: 121,01:36:54,M 60 - 69: 5
+1041,Caro,Rodrigo,15K,160,M: 127,01:39:43,M 35 - 39: 27
+1042,Carrasco,Gabriel Elias,15K,52,M: 50,01:19:05,M 30 - 34: 10
+1043,Carrasco,Sandro Cristian,15K,196,M: 146,01:46:42,M 50 - 54: 18
+1044,Carrera,Lorena Paola,15K,237,F: 79,01:59:56,F 35 - 39: 17
+1046,Carrizo,Natalia,15K,247,F: 85,02:07:47,F 30 - 34: 15
+1047,Castro,Adriana,15K,112,F: 15,01:30:44,F 35 - 39: 4
+1048,Castro,Glenda,15K,119,F: 17,01:31:47,F 40 - 44: 3
+1049,Castro,Leonardo,15K,21,M: 21,01:08:42,M 35 - 39: 6
+1050,Castro,Silvana,15K,147,F: 26,01:37:01,F 50 - 54: 1
+1051,Cayupan,Jorge,15K,124,M: 106,01:32:14,M 40 - 44: 17
+1052,Cenciarini,Luisa Teresita,15K,262,F: 97,02:22:56,F 50 - 54: 10
+1053,Cheuquecoy,Juan Carlos,15K,106,M: 94,01:29:39,M 60 - 69: 1
+1054,Chirino,Hector Ricardo,15K,218,M: 151,01:53:32,M 55 - 59: 8
+1055,Cisterna,Rodrigo,15K,234,M: 158,01:58:43,M 40 - 44: 24
+1056,Ciuffetti,Emir,15K,25,M: 25,01:09:59,M 18 - 29: 9
+1057,Coletti,Dana,15K,207,F: 61,01:49:10,F 18 - 29: 5
+1058,Colipi,Silvia Ivana,15K,102,F: 12,01:29:06,F 30 - 34: 5
+1059,Coliyan,Donato Esteban,15K,91,M: 81,01:26:47,M 35 - 39: 16
+1060,Collipal,Alex,15K,129,M: 109,01:32:59,M 50 - 54: 10
+1061,Condori,Cristian Reno,15K,49,M: 47,01:18:32,M 30 - 34: 9
+1062,Contreras,Mauricio,15K,27,M: 27,01:11:11,M 40 - 44: 7
+1063,Contreras,Nicolas,15K,89,M: 79,01:26:30,M 30 - 34: 15
+1064,Curinao,Carlos Ariel,15K,88,M: 78,01:26:25,M 30 - 34: 14
+1065,Currumil,Daniel Andres,15K,68,M: 64,01:22:10,M 45 - 49: 6
+1066,De Leon,Carlos Tomas,15K,194,M: 145,01:46:19,M 35 - 39: 29
+1067,De Mello Falugi,Erica,15K,205,F: 59,01:49:04,F 35 - 39: 13
+1068,De Turris,Diego,15K,227,M: 157,01:57:18,M 45 - 49: 22
+1069,Debaco,Lucas,15K,74,M: 68,01:23:10,M 35 - 39: 13
+1070,Di Nasso,Paula,15K,212,F: 64,01:50:22,F 55 - 59: 2
+1071,Diaz,Roberto Fabio,15K,85,M: 77,01:25:34,M 55 - 59: 4
+1074,Duette,Veronica,15K,248,F: 86,02:08:35,F 35 - 39: 18
+1076,Duran,Silvana Del Carmen,15K,253,F: 90,02:11:08,F 45 - 49: 17
+1077,Elias,Emiliano Catrin,15K,16,M: 16,01:06:58,M 18 - 29: 5
+1078,Elorza,Dario Sebastian,15K,37,M: 37,01:15:55,M 45 - 49: 2
+1079,Enriquez,Dina Soledad,15K,148,F: 27,01:37:06,F 30 - 34: 8
+1080,Enriquez,Raquel,15K,166,F: 37,01:41:36,F 35 - 39: 11
+1081,Escobar,Santiago,15K,8,M: 8,01:04:35,M 40 - 44: 1
+1083,Esteinberg,Maria Laura,15K,181,F: 43,01:43:40,F 45 - 49: 7
+1084,Estremador,Carlos Alberto,15K,13,M: 13,01:06:21,M 35 - 39: 4
+1085,Fanton,Marcos Gonzalo,15K,211,M: 148,01:50:11,M 40 - 44: 23
+1086,Fermin,Javier,15K,1,M: 1,00:56:53,M 35 - 39: 1
+1087,Fernandez,Nestor Horacio,15K,193,M: 144,01:46:10,M 50 - 54: 17
+1088,Ferreiro,Ezequiel,15K,23,M: 23,01:08:57,M 18 - 29: 8
+1089,Ferreyra,Cristian,15K,67,M: 63,01:22:00,M 45 - 49: 5
+1090,Figueredo,Mario,15K,24,M: 24,01:09:48,M 40 - 44: 6
+1091,Figueroa,Diego,15K,241,M: 160,02:01:12,M 45 - 49: 23
+1092,Figueroa,Lorena,15K,69,F: 5,01:22:20,F 30 - 34: 1
+1094,Flagel,Emilio Fernando,15K,186,M: 139,01:44:25,M 45 - 49: 17
+1095,Flores,Maria Angelica,15K,263,F: 98,02:27:04,F 45 - 49: 18
+1096,Frias,Juan Andres,15K,162,M: 128,01:40:01,M 35 - 39: 28
+1097,Fuentes,Carlos Cesar,15K,121,M: 104,01:32:02,M 45 - 49: 16
+1098,Fuentes,Deby,15K,76,F: 7,01:23:20,F 30 - 34: 3
+1099,Fuentes,Luis Alberto,15K,171,M: 132,01:42:18,M 60 - 69: 7
+1100,Fuentes,Luis Andres,15K,22,M: 22,01:08:52,M 40 - 44: 5
+1101,Fuentes,Wilson,15K,18,M: 18,01:07:46,M 35 - 39: 5
+1102,Funes,Paola,15K,266,F: 100,02:32:00,F 40 - 44: 23
+1103,Galvan,Matias,15K,43,M: 43,01:16:45,M 30 - 34: 7
+1104,Garcia,German,15K,39,M: 39,01:16:13,M 50 - 54: 5
+1105,Garrido,Paulo,15K,55,M: 53,01:19:44,M 30 - 34: 11
+1106,Garrido,Segundo,15K,108,M: 95,01:30:03,M 55 - 59: 5
+1107,Garro,Miguel Alberto,15K,134,M: 114,01:33:39,M 55 - 59: 6
+1108,Gerez,Cecilia,15K,242,F: 82,02:02:47,F 40 - 44: 20
+1109,Gimenez,Leandro,15K,78,M: 71,01:23:46,M 45 - 49: 8
+1110,Gomez,Beatriz,15K,45,F: 2,01:17:29,F 45 - 49: 1
+1111,Gomez,Eugenia,15K,169,F: 39,01:42:13,F 30 - 34: 10
+1112,Gomez,Javier,15K,34,M: 34,01:15:08,M 35 - 39: 8
+1113,Gomez,Maria Celeste,15K,87,F: 10,01:25:48,F 35 - 39: 2
+1114,Gomez,Marisol,15K,215,F: 65,01:51:38,F 40 - 44: 16
+1115,Gomez,Omar Alberto,15K,57,M: 55,01:20:05,M 35 - 39: 10
+1117,Gonzalez,Martin,15K,132,M: 112,01:33:23,M 30 - 34: 19
+1118,Gonzalez,Natalia Belen,15K,79,F: 8,01:23:58,F 30 - 34: 4
+1119,Gonzalez,Pamela,15K,137,F: 22,01:34:45,F 35 - 39: 5
+1121,Guerrero,Nicolas,15K,152,M: 123,01:38:05,M 30 - 34: 22
+1122,Gutierrez,Leonardo Luis,15K,3,M: 3,01:01:29,M 18 - 29: 1
+1123,Gutierrez,Adrian,15K,226,M: 156,01:57:07,M 50 - 54: 20
+1124,Gutierrez,Enrique Alberto,15K,138,M: 116,01:34:50,M 50 - 54: 12
+1125,Helling,Horacio,15K,265,M: 166,02:31:29,M 70 - 79: 2
+1126,Hernandez,Godoy Jorge Alfredo,15K,100,M: 89,01:28:49,M 35 - 39: 20
+1127,Hernandez,Jose,15K,173,M: 133,01:42:43,M 60 - 69: 8
+1128,Herrera,Javier,15K,110,M: 96,01:30:38,M 45 - 49: 12
+1129,Hurtado,Franco,15K,14,M: 14,01:06:46,M 18 - 29: 4
+1130,Ibañez,Maria Sabrina,15K,206,F: 60,01:49:08,F 30 - 34: 13
+1131,Inzunza,Belarmino,15K,48,M: 46,01:18:29,M 55 - 59: 2
+1132,Irastorza,Marcela,15K,163,F: 35,01:40:57,F 40 - 44: 7
+1133,Jade,Juan Carlos,15K,251,M: 163,02:09:37,M 60 - 69: 10
+1134,Jaimes,Diego,15K,101,M: 90,01:29:05,M 50 - 54: 9
+1135,Jasin,Amina,15K,164,F: 36,01:40:58,F 35 - 39: 10
+1136,Kleba,Liliana,15K,252,F: 89,02:10:28,F 50 - 54: 7
+1138,Kucich,Cesar,15K,177,M: 136,01:43:15,M 70 - 79: 1
+1139,Lezcano,Jose Miguel,15K,35,M: 35,01:15:32,M 18 - 29: 12
+1140,Linares,Victor Hugo,15K,93,M: 83,01:27:05,M 35 - 39: 17
+1141,Lineros,Paola,15K,44,F: 1,01:16:56,F 40 - 44: 1
+1142,Lisi,Cristhian,15K,111,M: 97,01:30:42,M 40 - 44: 16
+1143,Llambi,Alberto,15K,38,M: 38,01:16:12,M 50 - 54: 4
+1144,Lochbaum,Norma,15K,182,F: 44,01:43:50,F 55 - 59: 1
+1145,Mabellini,Alejandra,15K,161,F: 34,01:39:59,F 45 - 49: 5
+1146,Maechel,Bruno,15K,95,M: 85,01:27:49,M 35 - 39: 18
+1147,Mahon,Ariel,15K,120,M: 103,01:31:49,M 45 - 49: 15
+1148,Maidana,Betiana,15K,204,F: 58,01:48:45,F 35 - 39: 12
+1149,Malcorra,Miguel Bernabe,15K,245,M: 162,02:07:05,M 35 - 39: 31
+1150,Maldonado,Gonzalo,15K,46,M: 44,01:17:41,M 18 - 29: 13
+1152,Mammoni,Osvaldo,15K,219,M: 152,01:54:28,M 45 - 49: 21
+1153,Maressa,Leonardo Daniel,15K,50,M: 48,01:18:36,M 35 - 39: 9
+1154,Marinao,Jonas,15K,31,M: 31,01:13:15,M 18 - 29: 11
+1155,Marinzalta,Luis,15K,214,M: 150,01:51:35,M 60 - 69: 9
+1156,Maripil,Walter Enrique,15K,174,M: 134,01:42:54,M 40 - 44: 22
+1157,Araya,Martin,15K,5,M: 5,01:02:51,M 30 - 34: 2
+1159,Martinez,Araceli,15K,107,F: 13,01:30:01,F 45 - 49: 3
+1161,Medina,Pedro,15K,178,M: 137,01:43:23,M 50 - 54: 15
+1162,Mellado,Rodolfo Horacio,15K,56,M: 54,01:19:46,M 40 - 44: 10
+1163,Mendez,Monica Susana,15K,203,F: 57,01:48:30,F 40 - 44: 15
+1164,Mendicoa,Paola,15K,142,F: 25,01:36:40,F 35 - 39: 7
+1166,Milano,Pablo Javier,15K,117,M: 101,01:31:27,M 35 - 39: 22
+1167,Millañanco,Miriam Edith,15K,217,F: 67,01:52:48,F 45 - 49: 12
+1169,Monasterio,Maria Fernanda,15K,235,F: 77,01:59:15,F 50 - 54: 6
+1170,Montes,Diego Nicolas,15K,71,M: 66,01:22:33,M 18 - 29: 16
+1171,Moraga,Luis,15K,84,M: 76,01:25:23,M 50 - 54: 7
+1172,Morales,Julian,15K,145,M: 120,01:36:52,M 18 - 29: 17
+1173,Morales,Miguel Angel,15K,77,M: 70,01:23:28,M 35 - 39: 14
+1174,Morales,Mirta,15K,127,F: 19,01:32:45,F 40 - 44: 4
+1176,Motta,Maria Mercedes,15K,99,F: 11,01:28:41,F 45 - 49: 2
+1177,Moyano,Adriana,15K,109,F: 14,01:30:06,F 35 - 39: 3
+1178,Muñoz,Anahi,15K,209,F: 62,01:49:56,F 35 - 39: 14
+1180,Muñoz Marilef,Carmen,15K,233,F: 76,01:58:33,F 35 - 39: 16
+1181,Muñoz,Patricia Daniela,15K,264,F: 99,02:27:04,F 35 - 39: 20
+1182,Muñoz,Santiago,15K,143,M: 118,01:36:43,M 30 - 34: 21
+1183,Muzas,Marcelo Gaston,15K,92,M: 82,01:26:50,M 30 - 34: 17
+1184,Navarro,Alain Francisco,15K,2,M: 2,01:00:46,M 30 - 34: 1
+1185,Navarro,Jose,15K,29,M: 29,01:12:10,M 30 - 34: 4
+1186,Navarro,Sandra,15K,180,F: 42,01:43:30,F 45 - 49: 6
+1187,Nievas,Elidiana,15K,239,F: 80,02:00:34,F 55 - 59: 4
+1188,Ofak,Martin,15K,10,M: 10,01:05:13,M 40 - 44: 2
+1189,Olivieri,Jonathan,15K,175,M: 135,01:42:59,M 30 - 34: 24
+1190,Oller,Juan Ignacio,15K,105,M: 93,01:29:30,M 30 - 34: 18
+1192,Orellana,Lucas,15K,96,M: 86,01:28:06,M 35 - 39: 19
+1193,Orellana,Norma,15K,257,F: 92,02:17:00,F 50 - 54: 8
+1194,Ortiz,Antonio Eduardo,15K,75,M: 69,01:23:14,M 45 - 49: 7
+1195,Osses,Cecilia Magdalena,15K,185,F: 47,01:44:24,F 45 - 49: 9
+1196,Otero,Nilda Isabel,15K,154,F: 30,01:38:45,F 30 - 34: 9
+1197,Pacheco,Esteban Calixto,15K,97,M: 87,01:28:09,M 50 - 54: 8
+1198,Collins,Ricardo,15K,256,M: 165,02:13:57,M 80 Y +: 1
+1199,Paesani,Luis,15K,41,M: 41,01:16:18,M 55 - 59: 1
+1201,Pardo,Yasna,15K,189,F: 49,01:45:07,F 30 - 34: 12
+1202,Paulisich,Rosana,15K,199,F: 53,01:47:01,F 45 - 49: 11
+1203,Pellegrini,Mauro,15K,32,M: 32,01:14:57,M 50 - 54: 3
+1204,Perez,Marina,15K,156,F: 32,01:39:05,F 35 - 39: 8
+1205,Perfetti,Roberto Gabriel,15K,53,M: 51,01:19:10,M 45 - 49: 3
+1206,Pevsner,Emilio,15K,81,M: 73,01:24:33,M 45 - 49: 9
+1207,Pichimil,Maria Angelica,15K,261,F: 96,02:21:19,F 40 - 44: 22
+1208,Pino,Diego Alejandro,15K,165,M: 129,01:41:05,M 40 - 44: 21
+1209,Porco,Angelica,15K,202,F: 56,01:47:49,F 40 - 44: 14
+1210,Pove,Ezequiel Martinez,15K,113,M: 98,01:30:47,M 35 - 39: 21
+1211,Puentes,Facundo,15K,20,M: 20,01:08:22,M 18 - 29: 7
+1212,Quevedo,Gonzalo,15K,40,M: 40,01:16:14,M 30 - 34: 6
+1213,Quidel,Miguel Angel,15K,11,M: 11,01:06:04,M 35 - 39: 3
+1214,Morales,Rafael,15K,4,M: 4,01:01:42,M 18 - 29: 2
+1215,Ramirez,Diego,15K,17,M: 17,01:07:24,M 40 - 44: 4
+1216,Ramirez,Maria Angelica,15K,159,F: 33,01:39:32,F 35 - 39: 9
+1218,Ramirez,Pedro,15K,118,M: 102,01:31:38,M 60 - 69: 2
+1219,Recabarren,Danilo,15K,170,M: 131,01:42:17,M 50 - 54: 14
+1220,Retamales,Fabiola,15K,128,F: 20,01:32:47,F 40 - 44: 5
+1221,Riffo,Analia M,15K,188,F: 48,01:44:38,F 40 - 44: 10
+1222,Righi,Hugo,15K,123,M: 105,01:32:13,M 60 - 69: 3
+1223,Rivas,Carlos Sebastian,15K,153,M: 124,01:38:23,M 30 - 34: 23
+1224,Roberts,Cristian,15K,126,M: 108,01:32:34,M 35 - 39: 24
+1227,Rocca,Miguel Angel,15K,144,M: 119,01:36:46,M 60 - 69: 4
+1228,Rodil,Diego,15K,116,M: 100,01:31:24,M 45 - 49: 14
+1229,Rodriguez,Norberto,15K,98,M: 88,01:28:19,M 45 - 49: 10
+1230,Rodriguez,Viviana J,15K,244,F: 83,02:05:15,F 55 - 59: 6
+1231,Rogelio,Samuel,15K,80,M: 72,01:24:03,M 50 - 54: 6
+1232,Rojas,Karen,15K,136,F: 21,01:34:39,F 30 - 34: 7
+1233,Rosas,Marco,15K,63,M: 59,01:21:27,M 40 - 44: 11
+1234,Rossi,Nicolas,15K,47,M: 45,01:17:49,M 30 - 34: 8
+1235,Ruminot,Lorena Belen,15K,200,F: 54,01:47:24,F 40 - 44: 12
+1236,Sad,Carla,15K,150,F: 29,01:37:50,F 45 - 49: 4
+1237,Sagal,Leandro,15K,73,M: 67,01:23:09,M 35 - 39: 12
+1238,Salamanca,Pablo Matias,15K,6,M: 6,01:03:16,M 30 - 34: 3
+1240,Sanchez,Jorge,15K,7,M: 7,01:03:59,M 18 - 29: 3
+1241,Sanchez,Nancy Ester,15K,246,F: 84,02:07:12,F 55 - 59: 7
+1242,Sandoval,Gisella,15K,236,F: 78,01:59:21,F 30 - 34: 14
+1243,Sandoval,Pablo Lucas Andres,15K,90,M: 80,01:26:33,M 30 - 34: 16
+1244,Sanhueza,Carmen Patricia,15K,228,F: 71,01:57:18,F 55 - 59: 3
+1245,Sanz,Omar Ariel,15K,66,M: 62,01:21:37,M 45 - 49: 4
+1246,Sayes,Laura Yanet,15K,258,F: 93,02:19:22,F 40 - 44: 21
+1247,Schmidt,Angel Damian,15K,70,M: 65,01:22:25,M 35 - 39: 11
+1248,Segura,Andrea Soledad,15K,220,F: 68,01:54:53,F 40 - 44: 18
+1249,Seibel,Daniel,15K,130,M: 110,01:33:11,M 50 - 54: 11
+1250,Sepulveda,Graciela,15K,198,F: 52,01:46:49,F 50 - 54: 3
+1251,Soto,Angelica,15K,172,F: 40,01:42:25,F 40 - 44: 8
+1252,Soto,Pablo,15K,61,M: 58,01:21:12,M 30 - 34: 13
+1253,Soto,Vilma Gladys,15K,255,F: 91,02:13:48,F 55 - 59: 8
+1254,Spina,Delfina,15K,155,F: 31,01:38:50,F 18 - 29: 4
+1255,Terzaghi,Marcela,15K,195,F: 50,01:46:40,F 45 - 49: 10
+1256,Tordrup,Nilse,15K,232,F: 75,01:58:25,F 40 - 44: 19
+1257,Torres,Matias,15K,82,M: 74,01:25:04,M 35 - 39: 15
+1258,Tralcal,Diego Oscar,15K,104,M: 92,01:29:26,M 40 - 44: 15
+1259,Trecanao,Joanna Eleonora,15K,139,F: 23,01:35:21,F 35 - 39: 6
+1260,Trevisan,Juan Pedro,15K,224,M: 155,01:56:08,M 55 - 59: 9
+1262,Tscherig,Maria Veronica,15K,140,F: 24,01:35:28,F 18 - 29: 3
+1263,Valdez,Pablo,15K,135,M: 115,01:34:30,M 35 - 39: 25
+1264,Valenzuela,Jose,15K,42,M: 42,01:16:34,M 40 - 44: 8
+1265,Valenzuela,Mario Exequiel,15K,33,M: 33,01:15:03,M 30 - 34: 5
+1266,Vasquez,Maria,15K,201,F: 55,01:47:25,F 40 - 44: 13
+1268,Vega,Erna Isabel,15K,240,F: 81,02:00:47,F 55 - 59: 5
+1269,Vega,Miguel Angel,15K,179,M: 138,01:43:26,M 30 - 34: 25
+1270,Veñy,Lujan,15K,58,F: 3,01:20:13,F 18 - 29: 1
+1271,Vera,Juan,15K,28,M: 28,01:11:58,M 50 - 54: 2
+1272,Vicencio,Nancy Judith,15K,184,F: 46,01:44:24,F 45 - 49: 8
+1273,Vidal,Raul,15K,238,M: 159,02:00:22,M 35 - 39: 30
+1274,Vidal,Victor,15K,15,M: 15,01:06:50,M 40 - 44: 3
+1275,Villalba,Franco Arian,15K,30,M: 30,01:12:22,M 18 - 29: 10
+1276,Villalba,Jorge,15K,12,M: 12,01:06:06,M 50 - 54: 1
+1277,Villarroel,Gloria Del Carmen,15K,149,F: 28,01:37:10,F 40 - 44: 6
+1278,Villegas,Hugo,15K,192,M: 143,01:46:03,M 45 - 49: 19
+1279,Vilo,Malen,15K,221,F: 69,01:55:02,F 35 - 39: 15
+1280,Zaragoza,Andres,15K,158,M: 126,01:39:30,M 40 - 44: 20
+1281,Zarate,Leonardo,15K,54,M: 52,01:19:31,M 40 - 44: 9
+1282,Maldonado,Sandra,15K,86,F: 9,01:25:42,F 40 - 44: 2
+1283,Arias,Onofre,15K,167,M: 130,01:42:03,M 60 - 69: 6
+1284,Campo,Daiana,15K,62,F: 4,01:21:16,F 35 - 39: 1
+1285,Vaccari,Paula,15K,72,F: 6,01:22:52,F 30 - 34: 2
+1286,Hernandez,Lucas,15K,60,M: 57,01:20:37,M 18 - 29: 15
+1289,Curinao,Claudia,15K,114,F: 16,01:31:03,F 30 - 34: 6
+1290,Villar,Ruben Dario,15K,64,M: 60,01:21:29,M 55 - 59: 3
+1291,Vidal,Juan,15K,115,M: 99,01:31:11,M 45 - 49: 13
+1292,Pichimil,Daniel Armando,15K,94,M: 84,01:27:18,M 40 - 44: 14
+1293,Parra,Rene,15K,9,M: 9,01:04:44,M 35 - 39: 2
+1294,Acevedo,Fernando,15K,222,M: 153,01:55:39,M 30 - 34: 27
+1295,Thorp,Adriana,15K,259,F: 94,02:19:43,F 50 - 54: 9
+5001,Alegre,Claudia,08K,83,F: 34,00:54:53,F 30 - 39: 16
+5003,Alvarez,Natalia,08K,81,F: 32,00:54:40,F 30 - 39: 14
+5004,Andion,Alejandro,08K,27,M: 26,00:43:07,M 40 - 49: 5
+5006,Arias,Carolina Alejandra,08K,144,F: 77,01:08:46,F 30 - 39: 26
+5007,Arnold,Selva,08K,151,F: 83,01:11:01,F 50 - 59: 12
+5008,Augsburger,Agustin Emanuel,08K,105,M: 57,00:59:06,M 18 - 29: 14
+5009,Augsburger,Roberto,08K,19,M: 19,00:42:01,M 50 - 59: 1
+5010,Baez,Pablo Javier,08K,25,M: 24,00:42:58,M 30 - 39: 14
+5012,Banco,Lionel,08K,49,M: 39,00:48:51,M 18 - 29: 10
+5013,Barila,Stefania Andrea,08K,73,F: 27,00:53:20,F 30 - 39: 11
+5014,Barroso,Nestor Gabriel,08K,11,M: 11,00:39:50,M 40 - 49: 2
+5015,Benigar,Pablo Daniel,08K,4,M: 4,00:36:42,M 18 - 29: 2
+5016,Borquez,Gabriela Alejandra,08K,134,F: 69,01:05:22,F 18 - 29: 13
+5017,Canova,Fabian Alejandro,08K,161,M: 72,01:19:48,M 50 - 59: 10
+5018,Capuma,Nancy,08K,94,F: 42,00:57:27,F 50 - 59: 3
+5019,Carranza,Marisol,08K,45,F: 9,00:46:38,F 40 - 49: 3
+5021,Castro,Graciela Nancy,08K,152,F: 84,01:11:21,F 50 - 59: 13
+5022,Cayunao,Olga,08K,100,F: 47,00:57:59,F 40 - 49: 17
+5023,Cesano,Margarita,08K,55,F: 15,00:49:58,F 30 - 39: 7
+5024,Cheuque,Emilio,08K,80,M: 49,00:54:32,M 50 - 59: 2
+5025,Cid,Oscar Omar,08K,129,M: 65,01:04:01,M 50 - 59: 7
+5026,Cinfuentes,Marcelo,08K,6,M: 6,00:38:07,M 30 - 39: 4
+5027,Clementis,Jorge Daniel,08K,44,M: 36,00:46:23,M 60 Y +: 1
+5028,Coloma,Alejandro,08K,102,M: 55,00:58:26,M 30 - 39: 23
+5030,Cona,Gustavo Eduardo,08K,141,M: 67,01:06:51,M 50 - 59: 8
+5031,Contreras,Lucas Amilcar,08K,69,M: 45,00:52:42,M 30 - 39: 21
+5032,Correas,Ricardo Martin,08K,38,M: 33,00:45:40,M 40 - 49: 8
+5033,Cortez,Cristian,08K,9,M: 9,00:38:49,M 40 - 49: 1
+5034,Coyla,Tamara,08K,116,F: 55,01:00:11,F 18 - 29: 11
+5036,Curin,Oscar,08K,72,M: 46,00:53:16,M 30 - 39: 22
+5037,Da San Martino,Elena,08K,123,F: 61,01:02:28,F 40 - 49: 21
+5038,Dal Molin,Angelica,08K,120,F: 58,01:01:20,F 40 - 49: 19
+5039,Davila,Mario,08K,26,M: 25,00:43:06,M 40 - 49: 4
+5040,Delgado,Raquel,08K,89,F: 38,00:56:05,F 40 - 49: 11
+5041,Donoso,Mayra,08K,84,F: 35,00:55:05,F 30 - 39: 17
+5042,Durand,Fernando,08K,155,M: 70,01:11:38,M 40 - 49: 16
+5043,Enriquez,Marcela Ester,08K,75,F: 29,00:53:23,F 40 - 49: 9
+5044,Feltaño,Maria Gabriela,08K,93,F: 41,00:57:24,F 40 - 49: 14
+5045,Fernandez,Federico,08K,22,M: 22,00:42:35,M 30 - 39: 12
+5046,Fernandez,Nicolas,08K,28,M: 27,00:43:36,M 30 - 39: 15
+5047,Ferraris,Mariano Ivan,08K,46,M: 37,00:47:33,M 30 - 39: 19
+5048,Ferreyra,Marcia Yannet,08K,171,F: 98,01:48:24,F 40 - 49: 33
+5050,Funes,Vanesa,08K,91,F: 40,00:57:11,F 40 - 49: 13
+5051,Gac,Anibal,08K,87,M: 51,00:55:20,M 50 - 59: 4
+5053,Garcia,Mariana,08K,57,F: 17,00:50:08,F 40 - 49: 6
+5056,Gastaldi,Andrea,08K,154,F: 85,01:11:37,F 40 - 49: 30
+5057,Gaviña,Marta,08K,132,F: 67,01:04:39,F 60 y +: 1
+5059,Geldres,Miriam,08K,128,F: 64,01:03:57,F 50 - 59: 7
+5060,Gomez,Moreno Luciana,08K,77,F: 30,00:53:34,F 30 - 39: 13
+5061,Gomez,Nestor,08K,108,M: 59,00:59:30,M 60 Y +: 4
+5062,Gonzalez,Emmanuel,08K,35,M: 31,00:44:59,M 30 - 39: 17
+5063,Gonzalez,Maria Estela,08K,59,F: 18,00:51:08,F 40 - 49: 7
+5064,Gonzalez,Sandra,08K,119,F: 57,01:00:56,F 50 - 59: 6
+5065,Gonzalez,Vanesa,08K,33,F: 4,00:44:36,F 30 - 39: 3
+5066,Grassano,Lautaro,08K,124,M: 63,01:02:29,M 18 - 29: 15
+5067,Guajardo,Maria Elga,08K,138,F: 73,01:06:18,F 30 - 39: 24
+5068,Guarda,Hector Ariel,08K,21,M: 21,00:42:15,M 40 - 49: 3
+5069,Guchea,Silvia Liliana,08K,160,F: 89,01:19:02,F 50 - 59: 16
+5070,Guechimpan,Maria Laura,08K,67,F: 24,00:52:03,F 30 - 39: 10
+5071,Gunzelmann,Diana,08K,157,F: 87,01:14:29,F 50 - 59: 14
+5072,Gutierrez,Gloria,08K,111,F: 52,00:59:57,F 50 - 59: 5
+5073,Gutierrez,Herminia,08K,147,F: 79,01:10:03,F 30 - 39: 27
+5074,Gutierrez,Roxy,08K,148,F: 80,01:10:25,F 40 - 49: 27
+5075,Hermosilla,Marcos,08K,37,M: 32,00:45:32,M 30 - 39: 18
+5076,Hernandez,Erika,08K,42,F: 7,00:46:14,F 30 - 39: 4
+5077,Hernandez,Federico,08K,12,M: 12,00:40:02,M 18 - 29: 4
+5078,Hessy,Javier,08K,58,M: 41,00:50:45,M 30 - 39: 20
+5079,Holzmann,Pablo Andres,08K,101,M: 54,00:58:00,M 40 - 49: 14
+5080,Huenelaf,Guillermo Ruben,08K,18,M: 18,00:41:55,M 18 - 29: 6
+5081,Ibarra,Gabriela Soledad,08K,114,F: 54,01:00:08,F 30 - 39: 21
+5082,Ielpo,Maria Ines,08K,143,F: 76,01:07:48,F 40 - 49: 26
+5083,Iglesia Frezzini,Francisco Ernesto,08K,64,M: 42,00:51:46,M 18 - 29: 12
+5084,Inostroza,Agustina,08K,103,F: 48,00:58:33,F 18 - 29: 10
+5085,Iriarte,Noelia,08K,98,F: 45,00:57:41,F 40 - 49: 15
+5086,Jassan,Patricia,08K,127,F: 63,01:03:43,F 40 - 49: 23
+5087,Jeldres,Gabriela Natali,08K,121,F: 59,01:01:56,F 30 - 39: 22
+5088,Laciar,Alejandro Elias,08K,7,M: 7,00:38:17,M 30 - 39: 5
+5089,Laciar,Nicolas,08K,17,M: 17,00:41:24,M 18 - 29: 5
+5090,Lavoz Chamseddin,Marcia Lorena,08K,139,F: 74,01:06:33,F 40 - 49: 25
+5091,Lazarte,Miguel Omar,08K,92,M: 52,00:57:20,M 40 - 49: 12
+5092,Liotta,Juan Ignacio,08K,54,M: 40,00:49:53,M 18 - 29: 11
+5093,Lopez,Debora,08K,156,F: 86,01:13:11,F 30 - 39: 28
+5094,Lopez,Patricia Lorena,08K,99,F: 46,00:57:53,F 40 - 49: 16
+5095,Luis,Elida Judith,08K,74,F: 28,00:53:21,F 30 - 39: 12
+5096,Maglione,Silvio Gabriel,08K,10,M: 10,00:39:22,M 18 - 29: 3
+5097,Malcorra,Miguel Angel,08K,145,M: 68,01:08:56,: 
+5098,Marinho,Veronica,08K,96,F: 43,00:57:39,F 30 - 39: 18
+5099,Marinzalta,Nicolas Ariel,08K,16,M: 16,00:41:12,M 30 - 39: 10
+5100,Quijada,Vanina,08K,23,F: 1,00:42:42,F 30 - 39: 1
+5101,Martinez,Carolina Natalia,08K,88,F: 37,00:55:41,F 40 - 49: 10
+5102,Martinez Del Rio,Maria Patricia,08K,170,F: 97,01:31:04,F 50 - 59: 18
+5103,Meriño,Cinthia Anahi,08K,166,F: 94,01:24:18,F 30 - 39: 31
+5104,Millan,Sebastian,08K,34,M: 30,00:44:52,M 30 - 39: 16
+5105,Moia,Gabriela,08K,150,F: 82,01:10:33,F 40 - 49: 29
+5106,Montaldi,Adrian Agustin,08K,104,M: 56,00:58:38,M 18 - 29: 13
+5108,Montes,Bernardo,08K,29,M: 28,00:43:44,M 40 - 49: 6
+5110,Mora,Omar,08K,8,M: 8,00:38:22,M 30 - 39: 6
+5111,Moraga,Claudia,08K,39,F: 6,00:46:02,F 40 - 49: 1
+5112,Morales,Alba Nancy,08K,131,F: 66,01:04:37,F 50 - 59: 8
+5113,Moscoso,Ramos Marisa,08K,50,F: 11,00:49:13,F 30 - 39: 6
+5114,Nahuelñir,Mario Andres,08K,5,M: 5,00:36:48,M 30 - 39: 3
+5115,Negro,Maria Andrea,08K,149,F: 81,01:10:29,F 40 - 49: 28
+5116,Oliva,Cristian,08K,153,M: 69,01:11:27,M 30 - 39: 25
+5117,Palacios,Bautista,08K,41,M: 35,00:46:04,M 18 - 29: 8
+5118,Panguilef,Cecilia,08K,136,F: 71,01:05:58,F 40 - 49: 24
+5119,Parada,Sara Victoria,08K,142,F: 75,01:07:11,F 30 - 39: 25
+5120,Parmeggiani,Juan Manuel,08K,32,M: 29,00:43:57,M 40 - 49: 7
+5122,Peralta,Joana,08K,56,F: 16,00:50:02,F 18 - 29: 4
+5123,Pereyra,Leandro Rafael,08K,14,M: 14,00:40:26,M 30 - 39: 8
+5124,Pereyra,Renzo Carlos,08K,15,M: 15,00:41:11,M 30 - 39: 9
+5125,Perez,Monica Andrea,08K,162,F: 90,01:21:46,F 30 - 39: 29
+5126,Pignata,Ana Maria,08K,137,F: 72,01:05:58,F 50 - 59: 11
+5127,Pino,Cristian,08K,48,M: 38,00:48:40,M 18 - 29: 9
+5128,Pomies Baraldi,Yannina,08K,43,F: 8,00:46:15,F 40 - 49: 2
+5129,Prieto,Lucia,08K,36,F: 5,00:45:13,F 18 - 29: 2
+5130,Quintrecura,Miguel,08K,20,M: 20,00:42:04,M 30 - 39: 11
+5131,Ramos,Melina,08K,164,F: 92,01:22:24,F 40 - 49: 32
+5132,Ramos,Nelly,08K,133,F: 68,01:04:53,F 50 - 59: 9
+5133,Ripani,Georgina,08K,31,F: 3,00:43:54,F 30 - 39: 2
+5134,Rivero,Georgina,08K,53,F: 14,00:49:40,F 40 - 49: 5
+5135,Rodriguez,Fernando,08K,167,M: 73,01:28:42,M 50 - 59: 11
+5136,Rodriguez,Gabriela,08K,63,F: 22,00:51:42,F 50 - 59: 1
+5137,Rodriguez,Juan Carlos,08K,86,M: 50,00:55:20,M 50 - 59: 3
+5139,Sanchez,Nadia,08K,165,F: 93,01:23:54,F 30 - 39: 30
+5140,Sandoval,Nancy,08K,125,F: 62,01:03:11,F 40 - 49: 22
+5141,Santos,Gladys Clara,08K,169,F: 96,01:30:58,F 60 y +: 3
+5142,Sartino,Julieta,08K,62,F: 21,00:51:41,F 30 - 39: 9
+5143,Schvap,Karina,08K,163,F: 91,01:21:47,F 40 - 49: 31
+5144,Segura,Mikel,08K,3,M: 3,00:36:31,M 18 - 29: 1
+5146,Silva,Eduardo Marcelo,08K,126,M: 64,01:03:22,M 50 - 59: 6
+5147,Silvero,Graciela Patricia,08K,109,F: 50,00:59:31,F 40 - 49: 18
+5148,Simonelli,Victor,08K,1,M: 1,00:33:33,M 30 - 39: 1
+5149,Sivori,Javier,08K,159,M: 71,01:19:02,M 50 - 59: 9
+5150,Sixto,Jose Ruben,08K,112,M: 60,01:00:07,M 30 - 39: 24
+5151,Sosa,Lorena,08K,66,F: 23,00:51:53,F 40 - 49: 8
+5152,Sosa,Rosalia,08K,146,F: 78,01:09:27,F 60 y +: 2
+5153,Soto,Eduardo Diego,08K,115,M: 61,01:00:09,M 40 - 49: 15
+5154,Soto,Emilse Daniela,08K,70,F: 25,00:52:42,F 18 - 29: 6
+5155,Tirachini,Agustina,08K,113,F: 53,01:00:07,F 30 - 39: 20
+5156,Torres,Victor Omar,08K,140,M: 66,01:06:50,M 60 Y +: 5
+5157,Trecanao,Jorge,08K,79,M: 48,00:54:12,M 60 Y +: 2
+5158,Trecanao,Liliana Belen,08K,130,F: 65,01:04:17,F 30 - 39: 23
+5159,Ulloa,Mirta Noemi,08K,158,F: 88,01:15:52,F 50 - 59: 15
+5160,Urbano,Carina,08K,135,F: 70,01:05:28,F 50 - 59: 10
+5161,Valenzuela,Jennifer Daniela,08K,71,F: 26,00:53:07,F 18 - 29: 7
+5162,Vargas,Andrea,08K,122,F: 60,01:02:07,F 40 - 49: 20
+5163,Vassallo,Anabella,08K,52,F: 13,00:49:29,F 40 - 49: 4
+5165,Vidal,Daniel Eduardo,08K,13,M: 13,00:40:17,M 30 - 39: 7
+5166,Vidal Mendez,Celina Estefania,08K,85,F: 36,00:55:06,F 18 - 29: 8
+5168,Vilal,Isabel,08K,78,F: 31,00:53:35,F 50 - 59: 2
+5169,Villa Azanza,Mariela Alejandra,08K,90,F: 39,00:56:43,F 40 - 49: 12
+5170,Villarroel,Maria Celeste,08K,118,F: 56,01:00:42,F 18 - 29: 12
+5173,Zalvide,Jose Luis,08K,106,M: 58,00:59:06,M 60 Y +: 3
+5174,Zampa,Daniel Angel,08K,117,M: 62,01:00:14,M 50 - 59: 5
+5175,Zarate,Marco Antonio,08K,76,M: 47,00:53:29,M 40 - 49: 11
+5176,Zaupa,Eduardo,08K,65,M: 43,00:51:53,M 40 - 49: 9
+5177,Zurita,Debora Emilia,08K,168,F: 95,01:29:20,F 50 - 59: 17
+5179,Timi,Sergio,08K,95,M: 53,00:57:35,M 40 - 49: 13
+5180,Rabovich,Andres,08K,2,M: 2,00:35:16,M 30 - 39: 2
+5181,Muñoz,Agustin,08K,40,M: 34,00:46:03,M 18 - 29: 7
+5182,Gallardo,Mirta,08K,110,F: 51,00:59:55,F 50 - 59: 4
+5183,Gonzalez,Marite,08K,51,F: 12,00:49:15,F 18 - 29: 3
+5184,Albornoz,Nicole,08K,97,F: 44,00:57:40,F 18 - 29: 9
+5186,Ruiz,Macarena,08K,61,F: 20,00:51:30,F 18 - 29: 5
+5187,Figueroa,Karina,08K,107,F: 49,00:59:24,F 30 - 39: 19
+5188,Frijo,Gabriel,08K,24,M: 23,00:42:49,M 30 - 39: 13
+5189,Marchant Madrid,Jaime Andree,08K,68,M: 44,00:52:11,M 40 - 49: 10
+5190,Villegas,Veronica,08K,82,F: 33,00:54:51,F 30 - 39: 15
+5191,Contreras Poblete,Celeste,08K,60,F: 19,00:51:10,F 30 - 39: 8
+5192,Pacheco,Malena,08K,30,F: 2,00:43:45,F 18 - 29: 1
+5193,Vidal,Vanesa,08K,47,F: 10,00:48:06,F 30 - 39: 5

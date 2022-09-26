@@ -1,5 +1,5 @@
 {
-	"event": "Doble Apolo 2021",
-	"date": "09/08/2021",
-	"location": "Gral. Roca"
+	"event": "Doble Apolo 2022",
+	"date": "25/09/2022",
+	"location": "General Roca"
 }
